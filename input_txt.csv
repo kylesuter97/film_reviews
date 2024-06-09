@@ -1,0 +1,515 @@
+Title,Year of Release,Director,Actors,Genre,Sub-Genre,Plot,Screenplay,Direction,Characters,Dialogue,Pacing,Acting,Cinematography,VFX,Humour,Emotion,Ending,Atmosphere,Score,Enjoyment,Overall Rating
+The Lord of the Rings: The Return of the King,2003.0,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen","Action, Adventure, Drama","High-Fantasy, Epic",10,10,10,10,10,10,8,9,9.0,,9.0,10,10,10,10.0,9.5641
+The Lord of the Rings: The Fellowship of the Ring,2001.0,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom","Action, Adventure, Drama","High-Fantasy, Epic",10,10,10,10,9,10,8,9,9.0,,7.0,10,10,10,10.0,9.3846
+The Godfather,1972.0,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan","Crime, Drama",Gangster,9,10,10,10,10,8,10,8,,,,10,10,10,8.0,9.3333
+Whiplash,2014.0,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist","Drama, Music",Music,7,10,10,9,10,8,10,10,,,,10,10,9,9.0,9.303
+The Shawshank Redemption,1994.0,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",Drama,Prison,9,10,10,9,10,9,8,8,,,8.0,10,9,9,10.0,9.1714
+Steve Jobs,2015.0,Danny Boyle,"Michael Fassbender, Kate Winslet, Seth Rogen","Biography, Drama",Historical,9,9,9,9,10,8,9,9,,,,10,9,8,9.0,9.0909
+Dune,2021.0,Denis Villeneuve,"Timothée Chalamet, Rebecca Ferguson, Zendaya","Action, Adventure, Drama","Fantasy, Sci-Fi",8,9,10,9,9,8,9,10,10.0,,,8,10,9,9.0,9.0541
+Forrest Gump,1994.0,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise","Drama, Romance","Epic, Period",8,10,10,8,10,9,9,9,,,9.0,9,9,8,9.0,9.0286
+Ex Machina,2014.0,Alex Garland,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac","Drama, Sci-Fi, Thriller",AI,10,9,10,8,8,9,8,9,8.0,,,10,10,8,10.0,9.027
+Silver Linings Playbook,2012.0,David O. Russell,"Bradley Cooper, Jennifer Lawrence, Robert De Niro","Comedy, Drama, Romance",,8,10,9,8,9,10,10,8,,,7.0,10,8,8,10.0,9.0
+Brokeback Mountain,2005.0,Ang Lee,"Jake Gyllenhaal, Heath Ledger, Michelle Williams","Drama, Romance","LGBT, Neo-Western",8,9,9,8,9,9,9,9,,,9.0,10,8,10,9.0,8.8857
+American Beauty,1999.0,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",Drama,Satire,8,9,10,9,9,9,9,9,,,7.0,10,10,9,8.0,8.8571
+Inglourious Basterds,2009.0,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth","Adventure, Drama, War",,8,10,10,10,9,9,9,8,,,,9,9,8,8.0,8.8485
+Saving Private Ryan,1998.0,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore","Drama, War","Historical, Epic",8,9,10,8,8,9,9,9,9.0,,10.0,10,9,8,8.0,8.8205
+The Social Network,2010.0,David Fincher,"Jesse Eisenberg, Andrew Garfield, Justin Timberlake","Biography, Drama",,9,9,9,8,8,10,8,9,,,,8,9,9,10.0,8.8182
+Inception,2010.0,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page","Action, Adventure, Sci-Fi",,10,8,9,8,8,8,8,9,10.0,,7.0,10,10,10,8.0,8.7949
+Django Unchained,2012.0,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio","Drama, Western","Western, Period",9,9,9,10,10,8,9,8,,,,9,8,8,8.0,8.7879
+Parasite,2019.0,Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong","Drama, Thriller",Black-Comedy,8,9,10,9,8,8,9,9,,9.0,,8,9,9,9.0,8.7222
+Before Sunset,2004.0,Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff","Drama, Romance",,8,10,10,8,9,9,9,8,,,,9,8,9,8.0,8.697
+Casino Royale,2006.0,Martin Campbell,"Daniel Craig, Eva Green, Judi Dench","Action, Adventure, Thriller",Spy,9,8,9,9,9,9,8,8,,,,9,9,8,9.0,8.6667
+Oppenheimer,2023.0,Christopher Nolan,"Cillian Murphy, Emily Blunt, Matt Damon","Biography, Drama, History",,9,8,9,8,8,8,9,9,9.0,,,9,10,8,8.0,8.6486
+The Dark Knight,2008.0,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart","Action, Crime, Drama",,8,9,9,9,10,9,9,8,8.0,,,8,10,8,8.0,8.6216
+Skyfall,2012.0,Sam Mendes,"Daniel Craig, Javier Bardem, Naomie Harris","Action, Adventure, Thriller",Spy,8,7,8,9,9,8,8,10,9.0,,,9,9,9,9.0,8.5946
+Titanic,1997.0,James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane","Drama, Romance",Historical,9,8,9,8,8,8,8,9,8.0,,8.0,8,9,10,10.0,8.5385
+Once Upon a Time... in Hollywood,2019.0,Quentin Tarantino,"Leonardo DiCaprio, Brad Pitt, Margot Robbie","Comedy, Drama",Period,7,8,9,9,9,8,8,9,,9.0,,10,10,8,8.0,8.5278
+The Big Short,2015.0,Adam McKay,"Christian Bale, Steve Carell, Ryan Gosling","Biography, Comedy, Drama",Finance,9,9,9,9,9,9,9,6,,7.0,,8,8,8,10.0,8.5278
+Se7en,1995.0,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey","Crime, Drama, Mystery",Thriller,8,9,9,8,8,9,8,9,,,,9,10,8,8.0,8.5152
+Crazy Heart,2009.0,Scott Cooper,"Jeff Bridges, Maggie Gyllenhaal, Colin Farrell","Drama, Music, Romance",Music,8,9,9,8,8,9,9,8,,,7.0,9,8,10,9.0,8.5143
+The Green Mile,1999.0,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse","Crime, Drama, Fantasy","Prison, Magic",9,8,9,9,9,8,9,8,,,8.0,9,8,8,8.0,8.5143
+The Lord of the Rings: The Two Towers,2002.0,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen","Action, Adventure, Drama","High-Fantasy, Epic",9,8,8,10,9,8,8,9,9.0,,6.0,8,10,10,8.0,8.5128
+The Martian,2015.0,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig","Adventure, Drama, Sci-Fi","Survival, Space",10,8,8,8,9,8,8,8,9.0,,,7,8,8,9.0,8.4324
+Shutter Island,2010.0,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo","Drama, Mystery, Thriller",Period,9,8,9,8,8,8,8,8,,,,10,9,8,8.0,8.4242
+Past Lives,2023.0,Celine Song,"Greta Lee, Teo Yoo, John Magaro","Drama, Romance",,8,9,9,7,8,8,8,9,,,8.0,9,10,9,8.0,8.4
+Dallas Buyers Club,2013.0,Jean-Marc Vallée,"Matthew McConaughey, Jennifer Garner, Jared Leto","Biography, Drama",,8,9,9,9,9,8,10,8,,,,7,8,6,8.0,8.3939
+Prisoners,2013.0,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis","Crime, Drama, Mystery","Mystery, Detective",8,9,9,8,8,7,9,9,,,,9,9,6,8.0,8.3939
+A Quiet Place,2018.0,John Krasinski,"Emily Blunt, John Krasinski, Millicent Simmonds","Drama, Horror, Sci-Fi",,8,8,9,7,8,7,9,9,9.0,,,8,10,9,8.0,8.3784
+Legends of the Fall,1994.0,Edward Zwick,"Brad Pitt, Anthony Hopkins, Aidan Quinn","Drama, Romance, War","Period, Epic, Western",8,7,8,8,8,6,8,10,,,8.0,8,10,10,10.0,8.3714
+Before Sunrise,1995.0,Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert","Drama, Romance",,8,9,9,8,10,10,8,7,,,,8,8,8,8.0,8.3636
+Get Out,2017.0,Jordan Peele,"Daniel Kaluuya, Allison Williams, Bradley Whitford","Horror, Mystery, Thriller",Mystery,9,9,9,8,9,8,8,8,,,,8,8,8,8.0,8.3636
+Pulp Fiction,1994.0,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson","Crime, Drama",Neo-Noir,7,9,10,9,9,9,8,7,,,,9,9,8,8.0,8.3636
+Harry Potter and the Deathly Hallows: Part 2,2011.0,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint","Adventure, Family, Fantasy",Magic,9,8,8,9,9,7,8,9,9.0,,7.0,6,9,10,9.0,8.359
+The Godfather: Part II,1974.0,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall","Crime, Drama",Gangster,9,8,9,8,8,6,10,8,,,6.0,10,9,10,7.0,8.3429
+Boyhood,2014.0,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke",Drama,"Coming-of-Age, Epic",8,10,9,9,8,8,6,8,,,7.0,8,9,10,10.0,8.3429
+The Prestige,2006.0,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson","Drama, Mystery, Sci-Fi","Mystery, Magic, Psychological",9,9,8,8,8,8,8,8,,,,8,10,8,8.0,8.3333
+The King's Speech,2010.0,Tom Hooper,"Colin Firth, Geoffrey Rush, Helena Bonham Carter","Biography, Drama, History",Historical,9,9,9,8,8,8,10,8,,,6.0,8,9,8,7.0,8.3143
+Jerry Maguire,1996.0,Cameron Crowe,"Tom Cruise, Cuba Gooding Jr., Renée Zellweger","Comedy, Drama, Romance",Sports,8,9,9,9,10,8,8,7,,6.0,6.0,9,8,8,10.0,8.2895
+Capote,2005.0,Bennett Miller,"Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener","Biography, Crime, Drama",,8,9,10,8,8,8,9,8,,,,7,9,7,8.0,8.2727
+Nightcrawler,2014.0,Dan Gilroy,"Jake Gyllenhaal, Rene Russo, Bill Paxton","Crime, Drama, Thriller","Neo-Noir, Psychological",8,8,8,8,8,7,9,9,,,,8,10,8,8.0,8.2727
+The Matrix,1999.0,"Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss","Action, Sci-Fi",,8,7,9,8,9,8,8,9,10.0,,,9,8,6,7.0,8.2703
+Still Alice,2014.0,"Richard Glatzer, Wash Westmoreland","Julianne Moore, Alec Baldwin, Kristen Stewart",Drama,,9,9,9,7,8,8,9,7,,,10.0,8,7,7,8.0,8.2571
+A Knight's Tale,2001.0,Brian Helgeland,"Heath Ledger, Mark Addy, Rufus Sewell","Action, Adventure, Romance","Period, Midieval",9,8,7,8,8,8,7,8,,,8.0,9,8,8,10.0,8.2571
+Inside Llewyn Davis,2013.0,"Ethan Coen, Joel Coen","Oscar Isaac, Carey Mulligan, John Goodman","Drama, Music",,7,9,8,7,8,8,8,9,,,,8,9,10,9.0,8.2424
+There Will Be Blood,2007.0,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",Drama,"Period, Western",8,8,8,9,10,5,10,8,,,,8,9,8,7.0,8.2424
+12 Years a Slave,2013.0,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender","Biography, Drama, History",Period,9,9,9,9,8,8,9,8,,,8.0,7,8,8,7.0,8.2286
+Good Will Hunting,1997.0,Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck","Drama, Romance",Coming-of-Age,9,8,8,9,9,8,8,7,,,7.0,9,8,8,8.0,8.2
+Kill Bill: Vol. 2,2004.0,Quentin Tarantino,"Uma Thurman, David Carradine, Michael Madsen","Action, Crime, Thriller",,9,8,9,9,9,7,7,8,,,,9,8,6,8.0,8.1818
+Sicario,2015.0,Denis Villeneuve,"Emily Blunt, Josh Brolin, Benicio Del Toro","Action, Crime, Drama",,8,8,9,8,7,7,9,9,,,,9,8,7,8.0,8.1818
+Gone Girl,2014.0,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris","Drama, Mystery, Thriller","Psychological, Mystery",9,8,8,8,7,8,8,8,,,,9,9,8,8.0,8.1818
+Hacksaw Ridge,2016.0,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey","Biography, Drama, History",Historical,9,8,9,8,8,8,8,8,,,,8,8,8,8.0,8.1818
+Black Swan,2010.0,Darren Aronofsky,"Natalie Portman, Mila Kunis, Vincent Cassel","Drama, Thriller",Psychological,8,8,9,7,8,7,8,9,,,,9,9,8,8.0,8.1818
+Margin Call,2011.0,J.C. Chandor,"Zachary Quinto, Stanley Tucci, Kevin Spacey","Drama, Thriller",Finance,9,8,8,7,8,10,8,8,,,,6,9,8,9.0,8.1818
+Almost Famous,2000.0,Cameron Crowe,"Billy Crudup, Patrick Fugit, Kate Hudson","Adventure, Comedy, Drama","Music, Coming-of-Age, Period",8,8,8,9,8,8,6,7,,,,9,9,10,10.0,8.1818
+Joker,2019.0,Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz","Crime, Drama, Thriller",Psychological,8,8,8,8,9,6,9,9,,,,9,10,9,6.0,8.1818
+Call Me by Your Name,2017.0,Luca Guadagnino,"Timothée Chalamet, Armie Hammer, Michael Stuhlbarg","Drama, Romance","LGBT, Coming-of-Age",8,8,9,9,8,7,8,8,,,8.0,8,9,10,8.0,8.1714
+Wedding Crashers,2005.0,David Dobkin,"Owen Wilson, Vince Vaughn, Rachel McAdams","Comedy, Romance",Rom-Com,7,8,8,8,9,8,8,6,,10.0,,8,8,7,10.0,8.1667
+Avatar,2009.0,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver","Action, Adventure, Fantasy",Epic,9,7,8,7,7,6,8,10,10.0,,,8,8,8,8.0,8.1622
+The Departed,2006.0,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson","Crime, Drama, Thriller",Police,8,8,9,9,8,8,9,6,,,,9,8,8,8.0,8.1515
+L.A. Confidential,1997.0,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce","Crime, Drama, Mystery","Neo-Noir, Detective, Period",7,9,9,8,8,9,8,8,,,,9,9,8,7.0,8.1212
+Frost/Nixon,2008.0,Ron Howard,"Frank Langella, Michael Sheen, Kevin Bacon","Biography, Drama, History",,8,8,8,7,8,8,9,8,,,,9,8,7,8.0,8.1212
+Hell or High Water,2016.0,David Mackenzie,"Chris Pine, Ben Foster, Jeff Bridges","Crime, Drama, Thriller",Western,8,8,8,7,7,8,9,9,,,,9,8,7,8.0,8.1212
+Supernova,2020.0,Harry Macqueen,"Colin Firth, Stanley Tucci, Pippa Haywood","Drama, Romance",,8,8,8,7,8,8,9,9,,,9.0,7,8,8,8.0,8.1143
+Into the Wild,2007.0,Sean Penn,"Emile Hirsch, Vince Vaughn, Catherine Keener","Adventure, Biography, Drama",,9,8,8,8,8,7,8,8,,,7.0,6,8,10,10.0,8.1143
+Top Gun: Maverick,2022.0,Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller","Action, Drama",,8,8,8,8,6,7,8,9,9.0,,7.0,9,8,8,9.0,8.1026
+The Gift,2015.0,Joel Edgerton,"Jason Bateman, Rebecca Hall, Joel Edgerton","Drama, Mystery, Thriller",,8,8,9,8,8,8,8,8,,,,8,9,7,8.0,8.0909
+Field of Dreams,1989.0,Phil Alden Robinson,"Kevin Costner, James Earl Jones, Ray Liotta","Drama, Family, Fantasy",Sports,8,8,8,7,9,8,7,7,,,9.0,10,8,9,8.0,8.0857
+Interstellar,2014.0,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain","Adventure, Drama, Sci-Fi",Space,8,8,8,8,8,7,9,10,10.0,,8.0,3,8,10,8.0,8.0769
+La La Land,2016.0,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt","Comedy, Drama, Music",Musical,7,9,8,8,8,8,8,8,,,,8,8,10,8.0,8.0303
+Kung Fu Panda,2008.0,"Mark Osborne, John Stevenson","Jack Black, Ian McShane, Angelina Jolie","Animation, Action, Adventure",Period,8,8,8,9,9,8,7,8,8.0,8.0,7.0,8,8,10,8.0,8.0238
+Phantom Thread,2017.0,Paul Thomas Anderson,"Vicky Krieps, Daniel Day-Lewis, Lesley Manville","Drama, History, Romance",Period,6,8,9,7,8,8,9,9,,,,8,9,7,8.0,8.0
+Blood Diamond,2006.0,Edward Zwick,"Leonardo DiCaprio, Djimon Hounsou, Jennifer Connelly","Adventure, Drama, Thriller",,8,8,8,8,8,8,8,8,,,8.0,8,8,8,8.0,8.0
+Darkest Hour,2017.0,Joe Wright,"Gary Oldman, Lily James, Kristin Scott Thomas","Drama, War",,8,8,8,8,9,8,8,8,,,,7,8,8,8.0,8.0
+In Bruges,2008.0,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Ciarán Hinds","Comedy, Crime, Drama",Black-Comedy,7,9,9,8,9,8,8,8,,9.0,7.0,6,8,8,8.0,7.9737
+Tropic Thunder,2008.0,Ben Stiller,"Ben Stiller, Jack Black, Robert Downey Jr.","Action, Comedy, War",Satire,8,9,8,9,8,8,8,6,,10.0,,8,6,6,8.0,7.9722
+Moneyball,2011.0,Bennett Miller,"Brad Pitt, Robin Wright, Jonah Hill","Biography, Drama, Sport",Sports,9,8,8,7,8,8,8,7,,,6.0,8,8,8,9.0,7.9714
+Philadelphia,1993.0,Jonathan Demme,"Tom Hanks, Denzel Washington, Roberta Maxwell",Drama,"Legal, Courtroom",8,7,8,8,8,6,9,8,,,8.0,8,8,10,8.0,7.9714
+Slumdog Millionaire,2008.0,"Danny Boyle, Loveleen Tandan","Dev Patel, Freida Pinto, Saurabh Shukla","Crime, Drama, Romance",,8,9,9,8,8,7,9,8,,,8.0,8,8,8,6.0,7.9714
+A Star Is Born,2018.0,Bradley Cooper,"Lady Gaga, Bradley Cooper, Sam Elliott","Drama, Music, Romance",Music,8,8,9,8,8,8,9,8,,,7.0,7,8,10,7.0,7.9714
+John Wick,2014.0,"Chad Stahelski, David Leitch","Keanu Reeves, Michael Nyqvist, Alfie Allen","Action, Crime, Thriller",Neo-Noir,7,8,9,8,8,8,8,9,,,,7,9,7,8.0,7.9697
+The Talented Mr. Ripley,1999.0,Anthony Minghella,"Matt Damon, Gwyneth Paltrow, Jude Law","Crime, Drama, Thriller",Period,8,8,8,9,8,6,8,8,,,,9,9,8,7.0,7.9697
+Superbad,2007.0,Greg Mottola,"Michael Cera, Jonah Hill, Christopher Mintz-Plasse",Comedy,Buddy,7,8,8,8,8,8,7,8,,9.0,,8,9,9,8.0,7.9444
+Everybody Wants Some!!,2016.0,Richard Linklater,"Blake Jenner, Tyler Hoechlin, Ryan Guzman",Comedy,,8,8,8,8,9,8,7,7,,7.0,,8,9,7,9.0,7.9444
+Living,2022.0,Oliver Hermanus,"Bill Nighy, Aimee Lou Wood, Alex Sharp",Drama,,8,8,7,7,8,8,8,8,,,7.0,9,8,9,8.0,7.9429
+Flight,2012.0,Robert Zemeckis,"Denzel Washington, Nadine Velazquez, Don Cheadle","Drama, Thriller",,8,8,8,8,8,6,9,8,,,7.0,8,8,8,8.0,7.9429
+Aftersun,2022.0,Charlotte Wells,"Paul Mescal, Frankie Corio, Celia Rowlson-Hall",Drama,Pyschological,7,9,9,8,8,8,8,9,,,7.0,8,9,6,7.0,7.9429
+Zodiac,2007.0,David Fincher,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo","Crime, Drama, Mystery","Mystery, Detective",8,8,8,8,8,8,8,8,,,,8,8,6,8.0,7.9394
+The Hunt,2012.0,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",Drama,Pyschological,9,8,8,7,8,7,8,8,,,,8,8,6,8.0,7.9394
+John Wick: Chapter 2,2017.0,Chad Stahelski,"Keanu Reeves, Riccardo Scamarcio, Ian McShane","Action, Crime, Thriller",,7,7,8,8,8,9,8,9,,,,8,8,8,8.0,7.9394
+Batman Begins,2005.0,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe","Action, Crime, Drama",Superhero,8,9,8,9,8,8,8,8,8.0,,6.0,8,8,8,7.0,7.9231
+Drive,2011.0,Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan, Bryan Cranston","Action, Drama",Crime,6,8,9,7,8,9,8,9,,,,9,9,7,7.0,7.9091
+The Secret Life of Walter Mitty,2013.0,Ben Stiller,"Ben Stiller, Kristen Wiig, Jon Daly","Adventure, Comedy, Drama",,8,7,7,7,8,9,7,9,8.0,,6.0,9,7,9,9.0,7.8974
+Primal Fear,1996.0,Gregory Hoblit,"Richard Gere, Laura Linney, Edward Norton","Crime, Drama, Mystery","Mystery, Legal, Courtroom",8,8,8,8,8,7,8,8,,,,9,8,6,7.0,7.8485
+National Treasure,2004.0,Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha","Action, Adventure, Mystery",Mystery,10,7,7,8,8,8,7,6,,,,6,8,8,10.0,7.8485
+The Pursuit of Happyness,2006.0,Gabriele Muccino,"Will Smith, Thandiwe Newton, Jaden Smith","Biography, Drama",,8,8,7,6,8,8,8,8,,,8.0,10,7,8,7.0,7.8286
+End of Watch,2012.0,David Ayer,"Jake Gyllenhaal, Michael Peña, Anna Kendrick","Action, Adventure, Crime","Buddy, Police",7,9,8,8,8,9,8,7,,,6.0,8,8,8,8.0,7.8286
+Bridge of Spies,2015.0,Steven Spielberg,"Tom Hanks, Mark Rylance, Alan Alda","Drama, History, Thriller",,7,8,8,8,8,8,8,8,,,,8,8,6,8.0,7.8182
+Law Abiding Citizen,2009.0,F. Gary Gray,"Gerard Butler, Jamie Foxx, Leslie Bibb","Action, Crime, Drama",,9,7,7,7,9,8,8,7,,,,7,8,8,8.0,7.8182
+Up in the Air,2009.0,Jason Reitman,"George Clooney, Vera Farmiga, Anna Kendrick","Comedy, Drama, Romance",,7,8,9,8,9,8,8,8,,6.0,6.0,8,8,6,9.0,7.8158
+Four Lions,2010.0,Christopher Morris,"Will Adamsdale, Riz Ahmed, Adeel Akhtar","Comedy, Crime, Drama",,8,9,9,8,9,8,6,6,,8.0,,9,7,6,8.0,7.8056
+Walk the Line,2005.0,James Mangold,"Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin","Biography, Drama, Music",Music,8,9,8,8,8,7,9,7,,,7.0,7,7,10,7.0,7.8
+Harry Potter and the Goblet of Fire,2005.0,Mike Newell,"Daniel Radcliffe, Emma Watson, Rupert Grint","Adventure, Family, Fantasy",Magic,8,8,7,9,7,8,6,8,9.0,,7.0,8,8,9,8.0,7.7949
+The Day After Tomorrow,2004.0,Roland Emmerich,"Dennis Quaid, Jake Gyllenhaal, Emmy Rossum","Action, Adventure, Sci-Fi",Disaster,9,7,7,6,7,9,7,7,8.0,,6.0,9,6,10,10.0,7.7949
+"Crazy, Stupid, Love.",2011.0,"Glenn Ficarra, John Requa","Steve Carell, Ryan Gosling, Julianne Moore","Comedy, Drama, Romance",Rom-Com,7,8,8,8,8,8,7,7,,8.0,7.0,9,7,8,9.0,7.7895
+American Made,2017.0,Doug Liman,"Tom Cruise, Domhnall Gleeson, Sarah Wright","Action, Comedy, Crime",Historical,8,7,8,8,8,7,8,7,,,,8,9,7,8.0,7.7879
+The Wolf of Wall Street,2013.0,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie","Biography, Comedy, Crime","Finance, Epic, Black-Comedy",8,8,8,9,8,8,9,7,,7.0,,6,8,6,8.0,7.7778
+American Fiction,2023.0,Cord Jefferson,"Jeffrey Wright, Tracee Ellis Ross, John Ortiz","Comedy, Drama",,8,8,8,7,9,8,8,8,,7.0,,8,7,8,7.0,7.7778
+Cold Mountain,2003.0,Anthony Minghella,"Jude Law, Nicole Kidman, Renée Zellweger","Adventure, Drama, Romance",,8,8,7,8,8,7,9,8,,,7.0,6,8,8,8.0,7.7714
+The Town,2010.0,Ben Affleck,"Ben Affleck, Rebecca Hall, Jon Hamm","Crime, Drama, Thriller",Heist,7,8,8,8,8,8,8,8,,,,7,8,7,8.0,7.7576
+Apollo 13,1995.0,Ron Howard,"Tom Hanks, Bill Paxton, Kevin Bacon","Adventure, Drama, History",Historical,8,8,8,8,8,8,8,7,,,,8,7,8,7.0,7.7273
+Bleed for This,2016.0,Ben Younger,"Miles Teller, Aaron Eckhart, Katey Sagal","Biography, Drama, Sport",,7,8,7,8,8,8,8,8,,,,8,7,7,8.0,7.7273
+The Impossible,2012.0,J.A. Bayona,"Naomi Watts, Ewan McGregor, Tom Holland","Adventure, Drama, History",Historical,9,7,8,7,7,8,8,8,8.0,,7.0,8,8,7,7.0,7.7179
+The Imitation Game,2014.0,Morten Tyldum,"Benedict Cumberbatch, Keira Knightley, Matthew Goode","Biography, Drama, Thriller",Historical,8,8,8,8,8,6,9,7,,,7.0,8,8,7,7.0,7.7143
+The Great Gatsby,2013.0,Baz Luhrmann,"Leonardo DiCaprio, Carey Mulligan, Joel Edgerton","Drama, Romance",Period,7,6,8,8,8,7,8,9,8.0,,,6,10,8,8.0,7.7027
+Stranger Than Fiction,2006.0,Marc Forster,"Will Ferrell, Emma Thompson, Dustin Hoffman","Comedy, Drama, Fantasy",,8,8,8,7,7,8,8,7,,,,7,7,7,9.0,7.697
+Baby Driver,2017.0,Edgar Wright,"Ansel Elgort, Jon Bernthal, Jon Hamm","Action, Crime, Drama",Heist,7,8,9,8,8,9,7,8,,,,7,8,9,7.0,7.697
+The Nice Guys,2016.0,Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice","Action, Comedy, Crime",Detective,7,8,8,8,8,7,7,8,,8.0,,8,8,7,8.0,7.6944
+The Last Samurai,2003.0,Edward Zwick,"Tom Cruise, Ken Watanabe, Billy Connolly","Action, Drama","Epic, Period",8,7,8,8,8,7,8,8,,,7.0,6,9,8,8.0,7.6857
+Dead Poets Society,1989.0,Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke","Comedy, Drama",Space,8,8,7,8,8,7,8,7,,,7.0,10,6,8,7.0,7.6857
+Room,2015.0,Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers","Drama, Thriller",,9,8,8,7,8,8,8,6,,,7.0,8,8,7,7.0,7.6857
+Leave No Trace,2018.0,Debra Granik,"Thomasin McKenzie, Ben Foster, Jeffery Rifflard","Adventure, Drama",,8,8,8,6,7,7,8,8,,,,9,8,7,7.0,7.6667
+Saltburn,2023.0,Emerald Fennell,"Barry Keoghan, Jacob Elordi, Archie Madekwe","Comedy, Drama, Thriller",Black-Comedy,8,8,9,8,8,8,8,8,,7.0,,6,8,7,7.0,7.6667
+The Ides of March,2011.0,George Clooney,"Paul Giamatti, George Clooney, Philip Seymour Hoffman","Drama, Thriller",Political,8,8,8,7,8,8,8,7,,,,8,8,6,7.0,7.6667
+Gone Baby Gone,2007.0,Ben Affleck,"Morgan Freeman, Ed Harris, Casey Affleck","Crime, Drama, Mystery","Detective, Mystery",8,7,7,8,8,7,8,8,,,,8,8,8,7.0,7.6667
+The Adjustment Bureau,2011.0,George Nolfi,"Matt Damon, Emily Blunt, Lisa Thoreson","Crime, Drama, Mystery",,8,8,8,7,8,8,8,8,,,,6,7,7,8.0,7.6667
+The Notebook,2004.0,Nick Cassavetes,"Gena Rowlands, James Garner, Rachel McAdams","Drama, Romance",,8,8,7,7,7,8,8,7,,,8.0,8,7,8,8.0,7.6571
+Erin Brockovich,2000.0,Steven Soderbergh,"Julia Roberts, Albert Finney, David Brisbin","Biography, Drama",Legal,9,8,8,7,8,7,8,6,,,,8,6,6,8.0,7.6364
+Quantum of Solace,2008.0,Marc Forster,"Daniel Craig, Olga Kurylenko, Mathieu Amalric","Action, Adventure, Mystery",Spy,6,7,8,7,8,8,8,8,8.0,,,8,8,7,8.0,7.6216
+Life of Pi,2012.0,Ang Lee,"Suraj Sharma, Irrfan Khan, Adil Hussain","Adventure, Drama, Fantasy",,8,8,8,6,6,6,7,10,10.0,,7.0,7,7,8,7.0,7.6154
+Punch-Drunk Love,2002.0,Paul Thomas Anderson,"Adam Sandler, Emily Watson, Philip Seymour Hoffman","Comedy, Drama, Romance",,6,8,9,7,8,9,8,7,,,,8,8,8,7.0,7.6061
+Rendition,2007.0,Gavin Hood,"Reese Witherspoon, Jake Gyllenhaal, Peter Sarsgaard","Drama, Thriller",,8,8,8,8,8,8,8,7,,,,5,8,7,8.0,7.6061
+Café Society,2016.0,Woody Allen,"Jesse Eisenberg, Kristen Stewart, Steve Carell","Comedy, Drama, Romance",,6,8,9,8,8,8,7,8,,,,6,9,9,8.0,7.6061
+May December,2023.0,Todd Haynes,"Natalie Portman, Chris Tenzis, Charles Melton","Comedy, Drama",,8,8,8,7,7,8,8,8,,,,7,8,7,7.0,7.6061
+Atonement,2007.0,Joe Wright,"Keira Knightley, James McAvoy, Brenda Blethyn","Drama, Mystery, Romance","Period, War",8,9,9,7,8,7,8,8,,,7.0,5,8,8,7.0,7.6
+Knives Out,2019.0,Rian Johnson,"Daniel Craig, Chris Evans, Ana de Armas","Comedy, Crime, Drama",Mystery,8,8,7,8,8,7,8,6,,8.0,,9,7,6,7.0,7.5833
+Forgetting Sarah Marshall,2008.0,Nicholas Stoller,"Kristen Bell, Jason Segel, Paul Rudd","Comedy, Drama, Romance",Rom-Com,7,7,7,8,7,8,7,6,,9.0,,8,6,8,10.0,7.5833
+50/50,2011.0,Jonathan Levine,"Joseph Gordon-Levitt, Seth Rogen, Anna Kendrick","Comedy, Drama, Romance",,7,8,8,7,8,8,8,7,,6.0,,9,7,7,8.0,7.5833
+Notting Hill,1999.0,Roger Michell,"Hugh Grant, Julia Roberts, Richard McCabe","Comedy, Drama, Romance",Rom-Com,7,7,8,8,9,8,7,6,,5.0,7.0,9,7,8,10.0,7.5789
+Uncut Gems,2019.0,"Benny Safdie, Josh Safdie","Adam Sandler, Julia Fox, Idina Menzel","Crime, Drama, Thriller",,5,8,9,8,8,9,8,7,,,,8,9,7,7.0,7.5758
+The Da Vinci Code,2006.0,Ron Howard,"Tom Hanks, Audrey Tautou, Jean Reno","Mystery, Thriller",Mystery,10,7,7,7,7,8,7,7,,,5.0,8,8,8,8.0,7.5714
+Gladiator,2000.0,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen","Action, Adventure, Drama","Period, Epic",8,7,8,8,8,6,8,8,,,7.0,8,8,10,6.0,7.5714
+Everest,2015.0,Baltasar Kormákur,"Jason Clarke, Ang Phula Sherpa, Thomas M. Wright","Action, Adventure, Biography","Historical, Survival",10,7,7,8,8,6,8,8,7.0,,6.0,6,8,6,8.0,7.5641
+Anatomy of a Fall,2023.0,Justine Triet,"Sandra Hüller, Swann Arlaud, Milo Machado-Graner","Crime, Drama, Thriller",,8,8,8,7,9,7,8,6,,,,7,8,7,7.0,7.5455
+Nocturnal Animals,2016.0,Tom Ford,"Amy Adams, Jake Gyllenhaal, Michael Shannon","Drama, Thriller","Pyschological, Neo-Noir",8,7,8,7,8,7,8,8,,,,7,8,7,7.0,7.5455
+The Sixth Sense,1999.0,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette","Drama, Mystery, Thriller","Supernatural, Mystery",9,6,7,7,7,8,7,7,,,7.0,8,9,8,8.0,7.5429
+Kodachrome,2017.0,Mark Raso,"Ed Harris, Jason Sudeikis, Elizabeth Olsen",Drama,,8,8,7,8,7,7,8,7,,,7.0,8,8,8,7.0,7.5429
+Harry Potter and the Order of the Phoenix,2007.0,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint","Action, Adventure, Family",Magic,7,7,7,8,7,7,7,8,9.0,,6.0,8,8,8,8.0,7.5385
+The Hangover,2009.0,Todd Phillips,"Zach Galifianakis, Bradley Cooper, Justin Bartha",Comedy,,7,8,7,8,7,8,7,6,,10.0,,8,7,6,8.0,7.5278
+Fury,2014.0,David Ayer,"Brad Pitt, Shia LaBeouf, Logan Lerman","Action, Drama, War",Historical,6,8,8,7,8,7,9,9,,,,6,8,7,7.0,7.5152
+Captain Fantastic,2016.0,Matt Ross,"Viggo Mortensen, George MacKay, Samantha Isler","Comedy, Drama",,9,7,7,8,8,7,6,7,,,,8,8,6,8.0,7.5152
+Cinema Paradiso,1988.0,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili","Drama, Romance",,7,7,8,8,8,6,7,7,,,8.0,9,8,10,7.0,7.5143
+The Dark Knight Rises,2012.0,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway","Action, Drama, Thriller",,8,6,6,8,8,6,8,7,8.0,,,9,8,8,7.0,7.5135
+Kill Bill: Vol. 1,2003.0,Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah","Action, Crime, Thriller",,7,7,7,9,8,6,8,7,,,,7,8,8,8.0,7.4848
+21 Jump Street,2012.0,"Phil Lord, Christopher Miller","Jonah Hill, Channing Tatum, Ice Cube","Action, Comedy, Crime","Buddy, Police",7,8,8,8,8,8,6,6,,9.0,,8,7,6,8.0,7.4722
+The Road to El Dorado,2000.0,"Bibo Bergeron, Don Paul, Jeffrey Katzenberg","Kevin Kline, Kenneth Branagh, Rosie Perez","Animation, Adventure, Comedy",,9,6,7,8,8,7,7,7,8.0,,6.0,6,6,10,9.0,7.4615
+Gravity,2013.0,Alfonso Cuarón,"Sandra Bullock, George Clooney, Ed Harris","Drama, Sci-Fi, Thriller",Space,6,6,6,6,7,6,8,10,10.0,,,9,8,8,6.0,7.4595
+Spotlight,2015.0,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams","Biography, Crime, Drama",Historical,9,8,8,7,8,7,8,7,,,6.0,6,8,6,7.0,7.4571
+Maestro,2023.0,Bradley Cooper,"Carey Mulligan, Bradley Cooper, Matt Bomer","Biography, Drama, History",,7,8,8,8,7,7,9,8,,,,7,7,8,6.0,7.4545
+The Lion King,1994.0,"Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons, James Earl Jones","Animation, Adventure, Drama",Musical,8,7,6,8,8,7,6,8,6.0,,7.0,9,8,10,8.0,7.4359
+Star Trek,2009.0,J.J. Abrams,"Chris Pine, Zachary Quinto, Simon Pegg","Action, Adventure, Sci-Fi",,6,7,8,8,7,7,7,8,9.0,,,8,8,7,7.0,7.4324
+The Descendants,2011.0,Alexander Payne,"George Clooney, Shailene Woodley, Amara Miller","Comedy, Drama",,7,8,8,7,7,8,8,7,,,7.0,8,6,6,8.0,7.4286
+V for Vendetta,2005.0,James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves","Action, Drama, Sci-Fi","Political, Vigilante",9,7,8,8,8,6,7,8,,,6.0,7,7,8,7.0,7.4286
+American Sniper,2014.0,Clint Eastwood,"Bradley Cooper, Sienna Miller, Kyle Gallner","Action, Biography, Drama",,7,8,9,6,7,6,8,7,,,7.0,8,10,6,7.0,7.4286
+Nightmare Alley,2021.0,Guillermo del Toro,"Bradley Cooper, Cate Blanchett, Toni Collette","Crime, Drama, Thriller",,8,7,8,8,7,6,8,9,,,,6,9,8,6.0,7.4242
+The Fabelmans,2022.0,Steven Spielberg,"Michelle Williams, Gabriel LaBelle, Paul Dano",Drama,Period,8,8,8,8,7,6,7,8,,,,7,8,7,7.0,7.4242
+Horrible Bosses,2011.0,Seth Gordon,"Jason Bateman, Charlie Day, Jason Sudeikis","Comedy, Crime",,8,7,7,8,8,8,7,6,,8.0,,8,6,6,8.0,7.4167
+Stronger,2017.0,David Gordon Green,"Jake Gyllenhaal, Tatiana Maslany, Miranda Richardson","Biography, Drama",,8,8,7,6,8,7,8,6,,,7.0,8,8,7,7.0,7.4
+The Truman Show,1998.0,Peter Weir,"Jim Carrey, Ed Harris, Laura Linney","Comedy, Drama",,9,8,7,7,9,7,7,6,,6.0,6.0,9,6,9,7.0,7.3947
+We Need to Talk About Kevin,2011.0,Lynne Ramsay,"Tilda Swinton, John C. Reilly, Ezra Miller","Drama, Mystery, Thriller","Psychological, Mystery",9,8,8,7,7,7,7,7,,,,8,8,6,6.0,7.3939
+Glengarry Glen Ross,1992.0,James Foley,"Al Pacino, Jack Lemmon, Alec Baldwin","Crime, Drama, Mystery",Mystery,7,7,7,8,9,7,8,7,,,,8,8,6,6.0,7.3636
+Heat,1995.0,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer","Action, Crime, Drama",Detective,7,6,8,8,8,6,8,8,,,,7,8,8,7.0,7.3636
+Sound of Metal,2019.0,Darius Marder,"Riz Ahmed, Olivia Cooke, Paul Raci","Drama, Music",Music,7,8,8,6,8,8,8,6,,,,8,9,7,6.0,7.3636
+Catch Me If You Can,2002.0,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken","Biography, Crime, Drama",,9,7,7,6,8,6,8,7,,,,7,7,8,7.0,7.3636
+Failure to Launch,2006.0,Tom Dey,"Matthew McConaughey, Sarah Jessica Parker, Kathy Bates","Comedy, Romance",Rom-Com,7,8,7,8,7,8,6,7,,8.0,,8,7,7,8.0,7.3611
+When Harry Met Sally...,1989.0,Rob Reiner,"Billy Crystal, Meg Ryan, Carrie Fisher","Comedy, Drama, Romance",Rom-Com,7,8,8,7,8,9,6,7,,6.0,,8,7,8,8.0,7.3611
+Adventureland,2009.0,Greg Mottola,"Jesse Eisenberg, Kristen Stewart, Ryan Reynolds","Comedy, Drama, Romance",,7,8,6,7,8,8,7,7,,6.0,,8,8,8,8.0,7.3611
+I Am Legend,2007.0,Francis Lawrence,"Will Smith, Alice Braga, Charlie Tahan","Action, Drama, Horror",Zombie,9,8,7,6,6,8,7,7,7.0,,6.0,8,8,6,8.0,7.359
+Manchester by the Sea,2016.0,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler",Drama,,7,8,7,8,8,7,9,8,,,6.0,6,8,7,6.0,7.3429
+The Ghost Writer,2010.0,Roman Polanski,"Ewan McGregor, Pierce Brosnan, Olivia Williams","Crime, Drama, Mystery",Mystery,8,7,7,7,7,8,8,8,,,,6,8,6,7.0,7.3333
+Sexy Beast,2000.0,Jonathan Glazer,"Ray Winstone, Ben Kingsley, Ian McShane","Crime, Drama, Thriller",Heist,6,7,7,8,9,7,7,7,,,,7,8,8,8.0,7.3333
+(500) Days of Summer,2009.0,Marc Webb,"Zooey Deschanel, Joseph Gordon-Levitt, Geoffrey Arend","Comedy, Drama, Romance",Rom-Com,6,8,8,7,8,8,7,7,,6.0,,8,7,9,8.0,7.3333
+Horrible Bosses 2,2014.0,Sean Anders,"Jason Bateman, Jason Sudeikis, Charlie Day","Comedy, Crime",,8,7,6,6,7,8,7,7,,8.0,,9,6,6,8.0,7.3333
+Pirates of the Caribbean: The Curse of the Black Pearl,2003.0,Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom","Action, Adventure, Fantasy",Pirate,9,7,7,8,6,7,8,7,6.0,,,7,8,10,7.0,7.3243
+A Few Good Men,1992.0,Rob Reiner,"Tom Cruise, Jack Nicholson, Demi Moore","Drama, Thriller","Legal, Courtroom",8,7,7,7,8,7,6,6,,,,8,7,6,9.0,7.303
+BlackBerry,2023.0,Matt Johnson,"Jay Baruchel, Glenn Howerton, Matt Johnson","Biography, Comedy, Drama",,8,7,7,7,8,7,8,7,,7.0,,7,7,6,7.0,7.2778
+Layer Cake,2004.0,Matthew Vaughn,"Daniel Craig, Sienna Miller, Michael Gambon","Action, Crime, Drama",,6,7,7,9,8,7,8,6,,,,7,7,8,8.0,7.2727
+Magic Mike,2012.0,Steven Soderbergh,"Channing Tatum, Alex Pettyfer, Olivia Munn","Comedy, Drama",,7,7,7,7,6,8,7,8,,,,7,8,8,8.0,7.2727
+Training Day,2001.0,Antoine Fuqua,"Denzel Washington, Ethan Hawke, Scott Glenn","Action, Crime, Drama",Police,7,7,7,7,7,7,9,7,,,,9,7,6,6.0,7.2727
+Breath,2017.0,Simon Baker,"Samson Coulter, Ben Spence, Simon Baker","Adventure, Drama, Romance",,8,7,7,7,7,7,7,8,,,,6,8,6,8.0,7.2727
+The Batman,2022.0,Matt Reeves,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright","Action, Crime, Drama","Superhero, Neo-Noir, Detective, Vigilante, Psychological",7,7,8,7,7,4,8,9,8.0,,,7,8,9,6.0,7.2703
+Little Miss Sunshine,2006.0,"Jonathan Dayton, Valerie Faris","Steve Carell, Toni Collette, Greg Kinnear","Comedy, Drama",Black-Comedy,7,8,8,8,8,8,8,8,,6.0,6.0,6,7,6,7.0,7.2632
+The English Patient,1996.0,Anthony Minghella,"Ralph Fiennes, Juliette Binoche, Willem Dafoe","Drama, Romance, War","Epic, Period",7,7,7,8,8,4,8,9,,,6.0,6,9,8,7.0,7.2571
+Doubt,2008.0,John Patrick Shanley,"Meryl Streep, Philip Seymour Hoffman, Amy Adams","Drama, Mystery",Mystery,7,8,7,7,8,6,9,7,,,6.0,7,8,8,6.0,7.2571
+Eat Pray Love,2010.0,Ryan Murphy,"Julia Roberts, Javier Bardem, Richard Jenkins","Biography, Drama, Romance",,8,7,7,7,6,7,7,7,,,6.0,8,6,8,9.0,7.2571
+Harry Potter and the Half-Blood Prince,2009.0,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint","Action, Adventure, Family",Magic,8,7,7,6,8,7,6,8,,,6.0,9,7,8,7.0,7.2571
+Starsky & Hutch,2004.0,Todd Phillips,"Ben Stiller, Owen Wilson, Snoop Dogg","Comedy, Crime",Period,6,7,8,8,8,8,6,6,,9.0,,7,7,8,8.0,7.25
+Harry Potter and the Prisoner of Azkaban,2004.0,Alfonso Cuarón,"Daniel Radcliffe, Emma Watson, Rupert Grint","Adventure, Family, Fantasy",Magic,6,6,8,8,7,7,6,9,8.0,,,7,9,9,7.0,7.2432
+Captain Phillips,2013.0,Paul Greengrass,"Tom Hanks, Barkhad Abdi, Barkhad Abdirahman","Action, Biography, Crime",,7,8,7,7,7,7,8,6,,,,8,8,6,7.0,7.2424
+The Prince of Egypt,1998.0,"Brenda Chapman, Steve Hickner, Simon Wells","Val Kilmer, Ralph Fiennes, Michelle Pfeiffer","Animation, Adventure, Drama","Historical, Musical",9,6,7,8,8,6,7,8,6.0,,6.0,6,7,10,8.0,7.2308
+My Sister's Keeper,2009.0,Nick Cassavetes,"Cameron Diaz, Abigail Breslin, Alec Baldwin","Drama, Family","Neo-Noir, Psychological",9,7,7,7,6,7,8,6,,,9.0,6,7,8,7.0,7.2286
+Indecent Proposal,1993.0,Adrian Lyne,"Robert Redford, Demi Moore, Woody Harrelson","Drama, Romance",,8,7,7,7,7,7,8,8,,,,7,8,5,6.0,7.2121
+The Life of David Gale,2003.0,Alan Parker,"Kevin Spacey, Kate Winslet, Laura Linney","Crime, Drama, Mystery",,8,7,7,6,7,8,7,7,,,,8,7,7,7.0,7.2121
+Fracture,2007.0,Gregory Hoblit,"Anthony Hopkins, Ryan Gosling, David Strathairn","Crime, Drama, Thriller",Legal,8,7,7,8,6,8,8,7,,,,6,8,6,7.0,7.2121
+Wind River,2017.0,Taylor Sheridan,"Elizabeth Olsen, Jeremy Renner, Graham Greene","Crime, Drama, Mystery","Mystery, Detective",7,7,7,7,7,8,8,8,,,,6,9,8,6.0,7.2121
+Harry Potter and the Deathly Hallows: Part 1,2010.0,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint","Adventure, Family, Fantasy",Magic,7,7,7,6,8,6,7,8,8.0,,6.0,8,8,6,7.0,7.2051
+Vice,2018.0,Adam McKay,"Christian Bale, Amy Adams, Steve Carell","Biography, Comedy, Drama","Satire, Black-Comedy, Political",9,8,7,8,9,6,8,6,,6.0,,4,8,6,7.0,7.1944
+World War Z,2013.0,Marc Forster,"Brad Pitt, Mireille Enos, Daniella Kertesz","Action, Adventure, Horror",Zombie,8,6,7,7,8,6,8,6,7.0,,,7,7,7,8.0,7.1892
+About Time,2013.0,Richard Curtis,"Domhnall Gleeson, Rachel McAdams, Bill Nighy","Comedy, Drama, Fantasy",Rom-Com,7,7,8,8,7,8,7,6,,5.0,8.0,8,7,8,8.0,7.1842
+"Definitely, Maybe",2008.0,Adam Brooks,"Ryan Reynolds, Rachel Weisz, Abigail Breslin","Comedy, Drama, Romance",Rom-Com,7,7,8,8,8,7,7,6,,6.0,7.0,8,7,6,8.0,7.1842
+Avatar: The Way of Water,2022.0,James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver","Action, Adventure, Fantasy",Epic,6,6,6,6,6,5,7,10,10.0,,6.0,8,8,8,7.0,7.1795
+Meet Joe Black,1998.0,Martin Brest,"Brad Pitt, Anthony Hopkins, Claire Forlani","Drama, Fantasy, Romance",Epic,8,7,7,6,8,6,6,7,,,7.0,9,7,8,7.0,7.1714
+Seven Pounds,2008.0,Gabriele Muccino,"Will Smith, Rosario Dawson, Woody Harrelson","Drama, Mystery, Thriller",,9,7,6,7,7,7,6,6,,,8.0,7,7,8,8.0,7.1714
+Wild,2014.0,Jean-Marc Vallée,"Reese Witherspoon, Laura Dern, Gaby Hoffmann","Adventure, Biography, Drama",,7,7,7,6,8,6,8,8,,,5.0,8,8,6,7.0,7.1714
+Unbreakable,2000.0,M. Night Shyamalan,"Bruce Willis, Samuel L. Jackson, Robin Wright","Drama, Mystery, Sci-Fi","Mystery, Superhero",8,7,7,6,7,6,6,8,,,,8,8,8,7.0,7.1515
+20th Century Women,2016.0,Mike Mills,"Annette Bening, Elle Fanning, Greta Gerwig","Comedy, Drama",,6,7,8,7,7,8,8,8,,,,6,7,8,7.0,7.1515
+Beautiful Boy,2018.0,Felix van Groeningen,"Steve Carell, Maura Tierney, Jack Dylan Grazer","Biography, Drama",,8,8,7,6,8,7,8,6,,,7.0,6,6,8,7.0,7.1429
+Eastern Promises,2007.0,David Cronenberg,"Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl","Crime, Drama, Thriller",,7,7,7,7,7,7,8,7,,,,7,7,7,7.0,7.1212
+Top Gun,1986.0,Tony Scott,"Tom Cruise, Tim Robbins, Kelly McGillis","Action, Drama",,8,6,7,7,6,9,6,7,6.0,,6.0,8,8,10,8.0,7.1026
+Zero Dark Thirty,2012.0,Kathryn Bigelow,"Jessica Chastain, Joel Edgerton, Chris Pratt","Drama, History, Thriller",,8,7,7,7,7,6,8,7,,,,7,8,6,6.0,7.0909
+Sully,2016.0,Clint Eastwood,"Tom Hanks, Aaron Eckhart, Laura Linney","Biography, Drama",Historical,8,7,7,7,7,8,8,6,,,,6,7,6,7.0,7.0909
+As Good as It Gets,1997.0,James L. Brooks,"Jack Nicholson, Helen Hunt, Greg Kinnear","Comedy, Drama, Romance",Rom-Com,7,8,7,5,9,8,8,6,,6.0,,6,7,8,7.0,7.0833
+Wanted,2008.0,Timur Bekmambetov,"Angelina Jolie, James McAvoy, Morgan Freeman","Action, Crime, Thriller",,8,6,7,7,7,6,7,7,7.0,,,8,8,6,7.0,7.0811
+Gangs of New York,2002.0,Martin Scorsese,"Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis","Crime, Drama","Period, Epic",8,7,7,9,8,6,8,6,,,,6,7,6,6.0,7.0606
+The Boy in the Striped Pyjamas,2008.0,Mark Herman,"Asa Butterfield, David Thewlis, Rupert Friend","Drama, War","Historical, War",9,6,6,6,7,7,7,6,,,,8,7,8,7.0,7.0606
+Dark Waters,2019.0,Todd Haynes,"Mark Ruffalo, Anne Hathaway, Tim Robbins","Biography, Drama, History","Historical, Legal",9,7,7,6,6,6,7,8,,,7.0,6,8,6,7.0,7.0571
+Knocked Up,2007.0,Judd Apatow,"Seth Rogen, Katherine Heigl, Paul Rudd","Comedy, Romance",Rom-Com,7,6,7,8,7,8,7,6,,9.0,,6,6,6,8.0,7.0556
+Lord of War,2005.0,Andrew Niccol,"Nicolas Cage, Ethan Hawke, Jared Leto","Crime, Drama",,8,7,6,7,7,7,7,6,,,,8,7,6,7.0,7.0303
+Closer,2004.0,Mike Nichols,"Natalie Portman, Jude Law, Clive Owen","Drama, Romance",,6,7,8,8,8,7,7,7,,,,7,6,7,7.0,7.0303
+Cast Away,2000.0,Robert Zemeckis,"Tom Hanks, Helen Hunt, Paul Sanchez","Adventure, Drama, Romance",Survival,8,7,7,6,6,6,8,7,,,7.0,9,6,7,6.0,7.0286
+The Mist,2007.0,Frank Darabont,"Thomas Jane, Marcia Gay Harden, Laurie Holden","Horror, Sci-Fi, Thriller",,7,8,8,8,7,8,7,6,4.0,,,9,8,6,7.0,7.027
+The Hunger Games,2012.0,Gary Ross,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",Dystopian,10,6,6,7,6,7,6,7,7.0,,6.0,7,7,6,8.0,7.0256
+Talladega Nights: The Ballad of Ricky Bobby,2006.0,Adam McKay,"Will Ferrell, John C. Reilly, Sacha Baron Cohen","Comedy, Sport",Sports,6,6,7,8,7,8,6,6,,8.0,,8,6,9,8.0,7.0
+Shaun of the Dead,2004.0,Edgar Wright,"Simon Pegg, Nick Frost, Kate Ashfield","Comedy, Horror",Zombie,8,8,7,7,7,8,7,6,,6.0,5.0,8,6,6,7.0,6.9737
+Flight of the Phoenix,2004.0,John Moore,"Dennis Quaid, Miranda Otto, Giovanni Ribisi","Action, Adventure, Drama",,8,6,6,6,5,6,5,8,8.0,,,8,7,7,9.0,6.973
+American Pie,1999.0,"Paul Weitz, Chris Weitz","Jason Biggs, Chris Klein, Thomas Ian Nicholas",Comedy,,6,7,7,8,6,8,6,6,,8.0,,8,6,8,8.0,6.9722
+Anchorman: The Legend of Ron Burgundy,2004.0,Adam McKay,"Will Ferrell, Christina Applegate, Steve Carell",Comedy,Period,7,7,7,8,7,8,6,6,,8.0,,7,7,6,7.0,6.9722
+Vicky Cristina Barcelona,2008.0,Woody Allen,"Rebecca Hall, Scarlett Johansson, Javier Bardem","Comedy, Drama, Romance",Rom-Com,6,7,8,8,7,8,8,7,,5.0,,6,8,7,7.0,6.9722
+Les Miserables,2012.0,Tom Hooper,"Hugh Jackman, Russell Crowe, Anne Hathaway","Drama, Musical, Romance",,7,7,7,7,7,5,8,8,,,6.0,7,7,9,6.0,6.9714
+Collateral,2004.0,Michael Mann,"Tom Cruise, Jamie Foxx, Jada Pinkett Smith","Action, Crime, Drama",,6,7,7,7,7,6,8,9,,,,6,9,9,5.0,6.9697
+Escape from Pretoria,2020.0,Francis Annan,"Daniel Radcliffe, Daniel Webber, Ian Hart","Biography, Crime, Mystery",Prison,8,6,7,7,7,7,7,6,,,,7,8,6,7.0,6.9697
+Ocean's Eleven,2001.0,Steven Soderbergh,"George Clooney, Brad Pitt, Julia Roberts","Crime, Thriller",Heist,7,7,6,8,7,7,7,6,,,,8,7,6,7.0,6.9697
+Iron Man,2008.0,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard","Action, Adventure, Sci-Fi",Superhero,8,7,7,6,7,6,7,7,8.0,5.0,,8,6,6,7.0,6.95
+Contagion,2011.0,Steven Soderbergh,"Matt Damon, Kate Winslet, Jude Law","Drama, Thriller",,8,7,7,7,6,7,8,6,,,,6,7,6,7.0,6.9394
+Inside Man,2006.0,Spike Lee,"Denzel Washington, Clive Owen, Jodie Foster","Crime, Drama, Mystery",,8,7,7,6,7,6,7,6,,,,7,7,8,7.0,6.9394
+2012,2009.0,Roland Emmerich,"John Cusack, Thandiwe Newton, Chiwetel Ejiofor","Action, Adventure, Sci-Fi","Epic, Disaster",9,6,6,7,6,8,6,7,8.0,,4.0,7,6,6,8.0,6.9231
+Hot Fuzz,2007.0,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman","Action, Comedy, Mystery","Buddy, Mystery, Police",7,7,7,7,8,7,7,6,,7.0,,7,6,6,7.0,6.9167
+Concussion,2015.0,Peter Landesman,"Will Smith, Alec Baldwin, Albert Brooks","Biography, Drama, Sport",Sports,8,6,7,6,7,8,8,7,,,6.0,6,7,4,7.0,6.9143
+The Purge,2013.0,James DeMonaco,"Ethan Hawke, Lena Headey, Max Burkholder","Horror, Sci-Fi, Thriller",,8,7,6,7,6,7,7,6,,,,7,8,6,7.0,6.9091
+The Northman,2022.0,Robert Eggers,"Alexander Skarsgård, Nicole Kidman, Claes Bang","Action, Adventure, Drama","Period, Midieval",7,7,7,7,6,6,8,8,,,,6,8,7,6.0,6.9091
+The Good Nurse,2022.0,Tobias Lindholm,"Eddie Redmayne, Jessica Chastain, Denise Pillott","Biography, Crime, Drama",,9,7,7,5,6,7,8,7,,,,6,9,6,5.0,6.9091
+Mississippi Grind,2015.0,"Anna Boden, Ryan Fleck","Ben Mendelsohn, Ryan Reynolds, Yvonne Landry","Comedy, Drama",,6,7,7,6,8,6,8,8,,,,7,8,8,5.0,6.9091
+Air,2023.0,Ben Affleck,"Matt Damon, Jason Bateman, Ben Affleck","Drama, Sport",,8,7,6,7,7,7,7,6,,6.0,,6,7,6,8.0,6.8889
+Pineapple Express,2008.0,David Gordon Green,"Seth Rogen, James Franco, Gary Cole","Action, Comedy, Crime",Buddy,7,7,6,7,6,7,7,6,,8.0,,7,6,6,8.0,6.8889
+Marriage Story,2019.0,Noah Baumbach,"Adam Driver, Scarlett Johansson, Julia Greer","Drama, Romance",,6,8,8,6,8,6,8,7,,,5.0,8,7,8,5.0,6.8857
+Unstoppable,2010.0,Tony Scott,"Denzel Washington, Chris Pine, Rosario Dawson","Action, Thriller",,7,7,7,6,7,8,7,6,,,,7,7,6,7.0,6.8788
+Primary Colors,1998.0,Mike Nichols,"John Travolta, Emma Thompson, Kathy Bates","Comedy, Drama",Politics,7,7,8,8,7,7,8,6,,,,5,6,6,7.0,6.8788
+The Banshees of Inisherin,2022.0,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon","Comedy, Drama",Black-Comedy,6,7,7,7,8,7,8,8,,,,4,8,8,6.0,6.8788
+Transformers,2007.0,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel","Action, Adventure, Sci-Fi",,7,6,6,7,6,7,6,6,8.0,,,8,6,8,8.0,6.8649
+All of Us Strangers,2023.0,Andrew Haigh,"Andrew Scott, Paul Mescal, Carter John Grout","Drama, Fantasy, Romance",,6,7,8,7,7,6,8,8,,,8.0,6,8,6,5.0,6.8571
+Pride & Prejudice,2005.0,Joe Wright,"Keira Knightley, Matthew Macfadyen, Brenda Blethyn","Drama, Romance",Period,7,7,7,7,7,6,7,8,,,6.0,6,8,8,6.0,6.8571
+Evan Almighty,2007.0,Tom Shadyac,"Steve Carell, Morgan Freeman, Lauren Graham","Comedy, Family, Fantasy",,6,7,7,7,7,8,6,6,7.0,6.0,,8,7,6,8.0,6.85
+Bird Box,2018.0,Susanne Bier,"Sandra Bullock, Trevante Rhodes, John Malkovich","Horror, Mystery, Sci-Fi",Mystery,8,7,6,6,6,7,7,6,,,,7,8,6,7.0,6.8485
+Before Midnight,2013.0,Richard Linklater,"Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick","Drama, Romance",,7,6,6,7,7,7,7,8,,,,6,7,7,7.0,6.8485
+National Treasure: Book of Secrets,2007.0,Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha","Action, Adventure, Mystery",Mystery,8,6,5,7,5,6,6,6,,,,7,7,8,10.0,6.8485
+The Dig,2021.0,Simon Stone,"Carey Mulligan, Ralph Fiennes, Lily James","Biography, Drama, History",Historical,7,7,6,6,7,8,7,7,,,,7,6,6,7.0,6.8485
+Arrival,2016.0,Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker","Drama, Mystery, Sci-Fi",Mystery,9,6,7,7,8,5,8,8,9.0,,3.0,3,8,8,5.0,6.8462
+Friends with Benefits,2011.0,Will Gluck,"Mila Kunis, Justin Timberlake, Patricia Clarkson","Comedy, Romance",Rom-Com,7,7,6,6,6,8,6,6,,6.0,,7,7,8,9.0,6.8333
+The Watch,2012.0,Akiva Schaffer,"Ben Stiller, Vince Vaughn, Jonah Hill","Comedy, Sci-Fi",,7,7,6,7,7,8,6,6,,7.0,,7,6,6,8.0,6.8333
+The Devil Wears Prada,2006.0,David Frankel,"Anne Hathaway, Meryl Streep, Adrian Grenier","Comedy, Drama",,7,7,7,7,7,8,8,6,,4.0,,8,6,6,7.0,6.8333
+Chariots of Fire,1981.0,Hugh Hudson,"Ben Cross, Ian Charleson, Nicholas Farrell","Biography, Drama, Sport","Sports, Historical",7,6,7,6,8,5,7,7,,,6.0,8,7,10,6.0,6.8286
+The Edge,1997.0,Lee Tamahori,"Anthony Hopkins, Alec Baldwin, Elle Macpherson","Action, Adventure, Drama",,8,6,7,6,7,7,7,8,,,,6,7,6,6.0,6.8182
+Pieces of a Woman,2020.0,Kornél Mundruczó,"Vanessa Kirby, Shia LaBeouf, Ellen Burstyn",Drama,,6,7,7,5,7,7,8,7,,,,6,7,8,7.0,6.8182
+Birdman or (The Unexpected Virtue of Ignorance),2014.0,Alejandro G. Iñárritu,"Michael Keaton, Zach Galifianakis, Edward Norton","Comedy, Drama",,5,5,8,6,8,8,8,8,,,,8,7,8,5.0,6.8182
+The Karate Kid,2010.0,Harald Zwart,"Jackie Chan, Jaden Smith, Taraji P. Henson","Action, Drama, Family",,8,7,7,6,5,7,6,7,,,,7,8,7,7.0,6.8182
+Moonlight,2016.0,Barry Jenkins,"Mahershala Ali, Naomie Harris, Trevante Rhodes",Drama,Coming-of-Age,6,7,8,6,7,6,7,8,,,,7,8,6,6.0,6.8182
+Marley & Me,2008.0,David Frankel,"Owen Wilson, Jennifer Aniston, Eric Dane","Drama, Family",,6,6,7,7,7,7,7,6,,4.0,10.0,8,7,6,8.0,6.8158
+The Men Who Stare at Goats,2009.0,Grant Heslov,"Ewan McGregor, George Clooney, Kevin Spacey","Comedy, War",Black-Comedy,6,7,7,7,7,7,7,6,,6.0,,9,6,6,7.0,6.8056
+The Hate U Give,2018.0,George Tillman Jr.,"Amandla Stenberg, Regina Hall, Russell Hornsby","Crime, Drama",,8,7,7,7,6,7,8,7,,,5.0,6,7,6,6.0,6.8
+Face/Off,1997.0,John Woo,"John Travolta, Nicolas Cage, Joan Allen","Action, Crime, Sci-Fi",,4,6,8,9,7,8,6,6,,,,8,7,7,8.0,6.7879
+Little Women,2019.0,Greta Gerwig,"Saoirse Ronan, Emma Watson, Florence Pugh","Drama, Romance","Period, Coming-of-Age",6,7,7,7,8,5,8,7,,,6.0,7,7,6,6.0,6.7714
+Don't Look Up,2021.0,Adam McKay,"Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep","Comedy, Drama, Sci-Fi",,9,8,7,8,7,7,7,6,6.0,6.0,4.0,7,6,6,6.0,6.7619
+Serpico,1973.0,Sidney Lumet,"Al Pacino, John Randolph, Jack Kehoe","Biography, Crime, Drama","Detective, Police",7,7,8,6,6,7,8,6,,,,6,7,8,6.0,6.7576
+Taxi Driver,1976.0,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd","Crime, Drama","Psychological, Neo-Noir",6,6,7,5,6,7,8,8,,,,7,8,8,6.0,6.7576
+The Hunger Games: Mockingjay - Part 1,2014.0,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",,8,7,6,7,6,7,6,6,7.0,,,7,7,6,7.0,6.7568
+Drift,2013.0,"Ben Nott, Morgan O'Neill","Myles Pollard, Xavier Samuel, Sam Worthington","Biography, Drama, Sport",,7,7,7,7,5,6,6,7,,,,7,7,6,8.0,6.7273
+Mud,2012.0,Jeff Nichols,"Matthew McConaughey, Tye Sheridan, Jacob Lofland",Drama,,7,7,7,7,6,6,7,6,,,,7,7,6,7.0,6.7273
+The Killing of a Sacred Deer,2017.0,Yorgos Lanthimos,"Barry G. Bernson, Herb Caillouet, Bill Camp","Drama, Horror, Mystery","Psychological, Mystery",8,7,8,6,7,6,7,7,,,,5,8,8,5.0,6.7273
+World Trade Center,2006.0,Oliver Stone,"Nicolas Cage, Michael Peña, Maria Bello","Drama, History, Thriller",Historical,7,6,7,6,6,7,7,6,7.0,,7.0,7,7,7,7.0,6.7179
+Elvis,2022.0,Baz Luhrmann,"Tom Hanks, Austin Butler, Olivia DeJonge","Biography, Drama, Music",Music,7,6,8,6,6,4,8,7,,,4.0,8,8,10,6.0,6.7143
+Remember Me,2010.0,Allen Coulter,"Robert Pattinson, Emilie de Ravin, Caitlyn Rund","Drama, Romance",Historical,7,6,7,8,7,6,7,7,,,6.0,5,8,6,7.0,6.7143
+The Holiday,2006.0,Nancy Meyers,"Kate Winslet, Cameron Diaz, Jude Law","Comedy, Romance","Rom-Com, Christmas",6,7,6,8,6,8,7,6,,4.0,7.0,8,6,8,8.0,6.7105
+Pawn Sacrifice,2014.0,Edward Zwick,"Tobey Maguire, Liev Schreiber, Peter Sarsgaard","Biography, Drama, History",,8,6,6,6,7,6,7,6,,,,6,8,6,7.0,6.697
+The Accountant,2016.0,Gavin O'Connor,"Ben Affleck, Anna Kendrick, J.K. Simmons","Action, Thriller",,8,6,6,6,6,7,6,6,,,,7,8,8,7.0,6.697
+Twilight,2008.0,Catherine Hardwicke,"Kristen Stewart, Robert Pattinson, Billy Burke","Drama, Fantasy, Romance",,8,6,6,7,4,6,5,7,,,,8,8,8,8.0,6.697
+Blades of Glory,2006.0,"Josh Gordon, Will Speck","Will Ferrell, Jon Heder, Amy Poehler","Comedy, Sport",Sports,7,6,6,7,7,7,6,6,,7.0,,7,6,6,8.0,6.6944
+Step Brothers,2008.0,Adam McKay,"Will Ferrell, John C. Reilly, Mary Steenburgen",Comedy,,6,7,7,7,7,7,6,6,,8.0,,7,6,6,7.0,6.6944
+Jobs,2013.0,Joshua Michael Stern,"Ashton Kutcher, Dermot Mulroney, Josh Gad","Biography, Drama",,8,6,6,6,5,7,6,6,,,,7,7,8,8.0,6.6667
+The Aviator,2004.0,Martin Scorsese,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale","Biography, Drama",,7,7,6,6,7,5,8,8,,,,7,7,5,5.0,6.6667
+The Unbearable Weight of Massive Talent,2022.0,Tom Gormican,"Nicolas Cage, Pedro Pascal, Tiffany Haddish","Action, Comedy, Crime",,7,6,7,7,7,6,6,6,,7.0,,8,6,6,7.0,6.6667
+"I Love You, Man",2009.0,John Hamburg,"Paul Rudd, Jason Segel, Rashida Jones","Comedy, Romance",,7,7,6,8,7,7,6,6,,6.0,,6,6,6,8.0,6.6667
+Limitless,2011.0,Neil Burger,"Bradley Cooper, Anna Friel, Abbie Cornish","Sci-Fi, Thriller",,9,6,6,7,6,5,6,7,,,,7,7,4,7.0,6.6667
+Lady Bird,2017.0,Greta Gerwig,"Saoirse Ronan, Laurie Metcalf, Tracy Letts","Comedy, Drama",,6,7,7,7,8,8,8,7,,6.0,,4,7,6,6.0,6.6667
+Enemy,2013.0,Denis Villeneuve,"Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon","Drama, Mystery, Thriller",Psychological,6,7,7,6,6,7,7,8,,,,6,9,5,6.0,6.6667
+Official Secrets,2019.0,Gavin Hood,"Keira Knightley, Matt Smith, Matthew Goode","Biography, Crime, Drama",Historical,8,6,5,5,7,6,7,6,,,,7,8,6,7.0,6.6667
+Locke,2013.0,Steven Knight,"Tom Hardy, Olivia Colman, Ruth Wilson",Drama,,6,7,7,6,6,7,7,7,,,,6,8,6,7.0,6.6667
+Thank You for Your Service,2017.0,Jason Hall,"Miles Teller, Beulah Koale, Joe Cole","Biography, Drama, War",,8,6,6,6,6,6,7,7,,,,7,8,5,6.0,6.6364
+Dirty Dancing,1987.0,Emile Ardolino,"Patrick Swayze, Jennifer Grey, Jerry Orbach","Drama, Music, Romance",,6,6,6,7,6,7,6,6,,,6.0,9,7,9,7.0,6.6286
+The Danish Girl,2015.0,Tom Hooper,"Eddie Redmayne, Alicia Vikander, Amber Heard","Biography, Crime, Drama",LGBT,7,6,7,6,7,6,8,7,,,6.0,6,7,6,6.0,6.6286
+Braveheart,1995.0,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan","Biography, Drama, History",Historical,8,5,6,7,8,4,7,9,,,6.0,6,8,10,4.0,6.6286
+The Hangover Part II,2011.0,Todd Phillips,"Bradley Cooper, Zach Galifianakis, Ed Helms",Comedy,,6,6,6,8,6,7,7,6,,8.0,,6,7,6,7.0,6.6111
+The Five-Year Engagement,2012.0,Nicholas Stoller,"Jason Segel, Emily Blunt, Chris Pratt","Comedy, Drama, Romance",Rom-Com,6,7,7,8,7,6,6,5,,7.0,,8,6,6,7.0,6.6111
+The Proposal,2009.0,Anne Fletcher,"Sandra Bullock, Ryan Reynolds, Mary Steenburgen","Comedy, Drama, Romance",Rom-Com,6,6,6,6,7,7,7,7,,6.0,,8,6,6,7.0,6.6111
+The Bourne Identity,2002.0,Doug Liman,"Franka Potente, Matt Damon, Chris Cooper","Action, Mystery, Thriller",Spy,6,7,7,6,6,7,7,6,,,,7,7,6,7.0,6.6061
+Angels & Demons,2009.0,Ron Howard,"Tom Hanks, Ewan McGregor, Ayelet Zurer","Action, Mystery, Thriller",Mystery,8,6,6,6,6,6,6,7,,,,8,6,5,7.0,6.6061
+The Stranger,2022.0,Thomas M. Wright,"Joel Edgerton, Sean Harris, Jada Alberts","Crime, Drama, Thriller","Psychological, Historical",6,6,7,5,6,6,8,8,,,,6,9,6,6.0,6.6061
+Phone Booth,2002.0,Joel Schumacher,"Colin Farrell, Kiefer Sutherland, Forest Whitaker","Crime, Mystery, Thriller",Psychological,6,6,6,6,6,8,8,6,,,,6,8,6,7.0,6.6061
+Out of Time,2003.0,Carl Franklin,"Denzel Washington, Sanaa Lathan, Eva Mendes","Crime, Drama, Mystery",,6,7,7,6,6,7,6,7,,,,7,7,7,7.0,6.6061
+The Way,2010.0,Emilio Estevez,"Martin Sheen, Emilio Estevez, Deborah Kara Unger","Comedy, Drama",,8,6,7,6,5,6,6,7,,,6.0,7,7,8,7.0,6.6
+The Greatest Showman,2017.0,Michael Gracey,"Hugh Jackman, Michelle Williams, Zac Efron","Biography, Drama, Musical",Musical,7,6,7,6,6,6,7,6,,,6.0,7,6,10,7.0,6.6
+The Equalizer,2014.0,Antoine Fuqua,"Denzel Washington, Marton Csokas, Chloë Grace Moretz","Action, Crime, Thriller",Vigilante,7,6,7,7,6,8,6,7,,,,6,8,6,6.0,6.5758
+Seven Years in Tibet,1997.0,Jean-Jacques Annaud,"Brad Pitt, David Thewlis, BD Wong","Adventure, Biography, Drama",Historical,8,6,6,7,7,5,6,7,,,,7,6,8,6.0,6.5758
+The Hunger Games: Catching Fire,2013.0,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",Dystopian,8,6,6,7,4,6,6,7,7.0,,,8,6,6,7.0,6.5676
+Passengers,2016.0,Morten Tyldum,"Jennifer Lawrence, Chris Pratt, Michael Sheen","Drama, Romance, Sci-Fi",Space,9,5,6,6,4,6,6,8,8.0,,,6,6,6,7.0,6.5676
+The Upside,2017.0,Neil Burger,"Kevin Hart, Bryan Cranston, Nicole Kidman","Comedy, Drama",,6,6,7,7,7,7,7,5,,7.0,,7,6,6,7.0,6.5556
+Get a Job,2016.0,Dylan Kidd,"Miles Teller, Anna Kendrick, Bryan Cranston",Comedy,,6,7,8,7,6,7,5,6,,8.0,,7,6,6,7.0,6.5556
+American Pie 2,2001.0,J.B. Rogers,"Jason Biggs, Seann William Scott, Shannon Elizabeth",Comedy,,6,6,6,7,6,8,6,6,,7.0,,7,6,6,8.0,6.5556
+Jack Reacher,2012.0,Christopher McQuarrie,"Tom Cruise, Rosamund Pike, Richard Jenkins","Action, Mystery, Thriller",,7,6,6,5,6,7,7,6,,,,7,8,5,7.0,6.5455
+Macbeth,2015.0,Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jack Madigan","Drama, History, War","Historical, Shakespeare",7,7,8,5,3,6,8,8,,,,6,9,8,5.0,6.5455
+Inferno,2016.0,Ron Howard,"Tom Hanks, Felicity Jones, Irrfan Khan","Action, Adventure, Crime",,9,5,6,5,6,7,7,7,,,,4,8,6,7.0,6.5455
+Harry Potter and the Chamber of Secrets,2002.0,Chris Columbus,"Daniel Radcliffe, Rupert Grint, Emma Watson","Adventure, Family, Fantasy",Magic,8,7,7,7,6,6,5,8,6.0,,5.0,6,8,8,6.0,6.5385
+Grown Ups,2010.0,Dennis Dugan,"Adam Sandler, Salma Hayek, Kevin James",Comedy,,7,5,6,8,6,8,6,6,,8.0,,6,6,6,7.0,6.5278
+Secret in Their Eyes,2015.0,Billy Ray,"Chiwetel Ejiofor, Nicole Kidman, Julia Roberts","Crime, Drama, Mystery",,7,5,6,5,7,6,6,6,,,,9,7,6,7.0,6.5152
+Flightplan,2005.0,Robert Schwentke,"Jodie Foster, Peter Sarsgaard, Sean Bean","Drama, Mystery, Thriller",,8,5,6,6,6,7,7,7,,,,5,7,6,7.0,6.5152
+Scoop,2024.0,Philip Martin,"Gillian Anderson, Billie Piper, Rufus Sewell","Biography, Drama",,8,5,6,6,7,8,7,6,,,,4,7,7,7.0,6.5152
+The Lost City of Z,2016.0,James Gray,"Charlie Hunnam, Robert Pattinson, Sienna Miller","Adventure, Biography, Drama",,8,7,6,5,6,6,6,7,,,5.0,6,8,6,7.0,6.5143
+Bohemian Rhapsody,2018.0,Bryan Singer,"Rami Malek, Lucy Boynton, Gwilym Lee","Biography, Drama, Music",Music,7,6,6,6,6,6,8,7,,,4.0,7,6,10,6.0,6.5143
+Love Actually,2003.0,Richard Curtis,"Hugh Grant, Martine McCutcheon, Liam Neeson","Comedy, Drama, Romance","Rom-Com, Christmas",6,7,6,7,6,7,6,6,,5.0,,8,7,8,7.0,6.5
+The Menu,2022.0,Mark Mylod,"Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult","Comedy, Horror, Thriller",Black-Comedy,7,6,7,6,7,6,7,7,,6.0,,4,8,6,7.0,6.5
+The Hunger Games: Mockingjay - Part 2,2015.0,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",,7,6,6,7,6,6,7,6,8.0,,,4,7,6,7.0,6.4865
+Children of Men,2006.0,Alfonso Cuarón,"Julianne Moore, Clive Owen, Chiwetel Ejiofor","Action, Drama, Sci-Fi",,7,6,7,5,6,6,7,8,,,,4,8,6,7.0,6.4848
+The Illusionist,2006.0,Neil Burger,"Edward Norton, Jessica Biel, Paul Giamatti","Drama, Fantasy, Mystery",,6,6,7,7,7,6,7,7,,,,4,8,6,7.0,6.4848
+P.S. I Love You,2007.0,Richard LaGravenese,"Hilary Swank, Gerard Butler, Harry Connick Jr.","Comedy, Drama, Romance",,6,6,6,7,7,7,5,6,,6.0,8.0,7,7,8,7.0,6.4737
+Triangle of Sadness,2022.0,Ruben Östlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean","Comedy, Drama","Satire, Black-Comedy",6,7,7,7,7,5,7,7,,6.0,,6,7,6,6.0,6.4722
+The Maze Runner,2014.0,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Will Poulter","Action, Mystery, Sci-Fi",Mystery,7,6,6,6,5,8,6,6,8.0,,4.0,7,7,6,7.0,6.4615
+Harry Potter and the Philosopher's Stone,2001.0,Chris Columbus,"Daniel Radcliffe, Rupert Grint, Richard Harris","Adventure, Family, Fantasy",Magic,8,6,7,8,6,8,4,7,6.0,,6.0,7,7,10,5.0,6.4615
+Knowing,2009.0,Alex Proyas,"Nicolas Cage, Chandler Canterbury, Rose Byrne","Action, Mystery, Sci-Fi",Mystery,7,5,6,6,6,7,7,7,6.0,,,6,8,5,7.0,6.4595
+The Whale,2022.0,Darren Aronofsky,"Brendan Fraser, Sadie Sink, Ty Simpkins",Drama,,7,6,6,6,6,6,8,6,,,6.0,6,7,4,7.0,6.4571
+Unfaithful,2002.0,Adrian Lyne,"Richard Gere, Diane Lane, Olivier Martinez","Drama, Romance, Thriller",,6,6,6,6,6,7,7,7,,,6.0,6,8,9,6.0,6.4571
+12 Angry Men,1957.0,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam","Crime, Drama",,7,7,7,8,7,6,6,6,,,,3,8,6,7.0,6.4545
+Invictus,2009.0,Clint Eastwood,"Morgan Freeman, Matt Damon, Tony Kgoroge","Action, Adventure, Biography",Sports,7,6,6,6,7,6,7,6,,,,6,6,6,7.0,6.4545
+Shooter,2007.0,Antoine Fuqua,"Mark Wahlberg, Michael Peña, Rhona Mitra","Action, Drama, Thriller",,7,6,8,7,6,6,6,6,,,,6,7,5,7.0,6.4545
+Blue Valentine,2010.0,Derek Cianfrance,"Ryan Gosling, Michelle Williams, John Doman","Drama, Romance",,6,7,7,5,8,7,8,6,,,,6,6,6,5.0,6.4545
+22 Jump Street,2014.0,"Phil Lord, Christopher Miller","Channing Tatum, Jonah Hill, Ice Cube","Action, Comedy, Crime",,7,5,5,7,7,7,6,6,,8.0,,6,6,6,7.0,6.4444
+The Island,2005.0,Michael Bay,"Scarlett Johansson, Ewan McGregor, Djimon Hounsou","Action, Sci-Fi, Thriller",,8,5,6,6,6,7,7,7,,,,5,6,5,7.0,6.4242
+The Idea of You,2024.0,Michael Showalter,"Anne Hathaway, Nicholas Galitzine, Ella Rubin","Drama, Romance",,6,6,7,7,5,5,7,7,,,,8,6,8,6.0,6.4242
+The Inbetweeners 2,2014.0,"Damon Beesley, Iain Morris","Simon Bird, James Buckley, Blake Harrison",Comedy,Coming-of-Age,6,6,6,6,6,7,5,6,,7.0,,8,6,6,8.0,6.4167
+Of Mice and Men,1992.0,Gary Sinise,"John Malkovich, Gary Sinise, Ray Walston","Drama, Western",,7,6,7,7,6,5,7,6,,,6.0,6,6,6,7.0,6.4
+Click,2006.0,Frank Coraci,"Adam Sandler, Kate Beckinsale, Christopher Walken","Comedy, Drama, Fantasy",,7,6,6,6,6,7,6,5,,6.0,8.0,8,6,8,6.0,6.3947
+Pretty Woman,1990.0,Garry Marshall,"Richard Gere, Julia Roberts, Jason Alexander","Comedy, Romance",Rom-Com,7,7,6,6,7,7,7,6,,4.0,5.0,6,6,9,7.0,6.3947
+The Manchurian Candidate,2004.0,Jonathan Demme,"Denzel Washington, Liev Schreiber, Meryl Streep","Drama, Horror, Mystery",,7,6,6,6,7,6,7,6,,,,4,8,6,7.0,6.3939
+The Game,1997.0,David Fincher,"Michael Douglas, Deborah Kara Unger, Sean Penn","Drama, Mystery, Thriller",Mystery,7,6,6,6,7,5,7,7,,,,5,8,6,6.0,6.3939
+Leave the World Behind,2023.0,Sam Esmail,"Julia Roberts, Mahershala Ali, Ethan Hawke","Drama, Mystery, Thriller",,6,7,6,6,7,7,7,7,,,,3,7,7,7.0,6.3939
+Snowden,2016.0,Oliver Stone,"Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo","Biography, Crime, Drama",,7,6,6,6,7,7,7,6,,,,4,7,6,7.0,6.3939
+Ford v Ferrari,2019.0,James Mangold,"Matt Damon, Christian Bale, Jon Bernthal","Action, Biography, Drama",Sports,7,6,6,6,6,6,7,7,,,,6,7,6,6.0,6.3939
+Murder Mystery,2019.0,Kyle Newacheck,"Adam Sandler, Jennifer Aniston, Luke Evans","Action, Comedy, Crime",Mystery,7,6,7,6,7,7,6,6,,6.0,,7,6,6,6.0,6.3889
+The Twilight Saga: New Moon,2009.0,Chris Weitz,"Kristen Stewart, Robert Pattinson, Taylor Lautner","Adventure, Drama, Fantasy",,7,5,6,7,4,6,5,8,7.0,,,7,8,6,7.0,6.3784
+Side Effects,2013.0,Steven Soderbergh,"Rooney Mara, Channing Tatum, Jude Law","Crime, Drama, Mystery",Psychological,8,4,5,5,7,7,6,6,,,,7,7,6,7.0,6.3636
+50 First Dates,2004.0,Peter Segal,"Adam Sandler, Drew Barrymore, Rob Schneider","Comedy, Drama, Romance",Rom-Com,7,6,7,6,6,7,6,5,,6.0,,8,5,6,7.0,6.3611
+Eternal Sunshine of the Spotless Mind,2004.0,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson","Drama, Romance, Sci-Fi",,6,7,6,6,7,6,8,7,,,6.0,6,7,7,4.0,6.3429
+Killers,2010.0,Robert Luketic,"Katherine Heigl, Ashton Kutcher, Tom Selleck","Action, Comedy, Romance",Rom-Com,7,7,7,6,7,7,6,5,,5.0,,6,6,6,7.0,6.3333
+The World's End,2013.0,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman","Action, Comedy, Sci-Fi",,6,6,6,8,6,8,6,6,6.0,5.0,,8,7,6,6.0,6.325
+Love & Other Drugs,2010.0,Edward Zwick,"Jake Gyllenhaal, Anne Hathaway, Judy Greer","Comedy, Drama, Romance",Rom-Com,7,6,6,6,5,7,6,6,,6.0,5.0,8,6,7,7.0,6.3158
+Patriots Day,2016.0,Peter Berg,"Mark Wahlberg, Michelle Monaghan, J.K. Simmons","Action, Crime, Drama","Historical, Police",7,6,6,5,6,6,7,7,,,6.0,6,7,6,6.0,6.3143
+Burnt,2015.0,John Wells,"Bradley Cooper, Sienna Miller, Daniel Brühl","Comedy, Drama",Food,7,5,6,6,5,8,7,6,,,,6,6,6,7.0,6.303
+To the Bone,2017.0,Marti Noxon,"Rebekah Kennedy, Lily Collins, Dana L. Wilson",Drama,,8,6,6,6,8,6,7,6,,,4.0,4,7,6,6.0,6.2857
+"I, Robot",2004.0,Alex Proyas,"Will Smith, Bridget Moynahan, Bruce Greenwood","Action, Mystery, Sci-Fi","Mystery, Detective",8,6,6,6,6,6,6,6,6.0,,5.0,6,6,7,7.0,6.2821
+It's Complicated,2009.0,Nancy Meyers,"Meryl Streep, Steve Martin, Alec Baldwin","Comedy, Drama, Romance",Rom-Com,7,6,6,7,6,8,5,6,,6.0,,6,6,6,7.0,6.2778
+Zoolander,2001.0,Ben Stiller,"Ben Stiller, Owen Wilson, Christine Taylor",Comedy,,6,6,6,7,7,7,5,5,,7.0,,7,5,8,7.0,6.2778
+Game Night,2018.0,"John Francis Daley, Jonathan Goldstein","Jason Bateman, Rachel McAdams, Kyle Chandler","Action, Adventure, Comedy",,7,6,6,6,5,6,6,6,,6.0,,7,7,6,7.0,6.2778
+The Perks of Being a Wallflower,2012.0,Stephen Chbosky,"Logan Lerman, Emma Watson, Ezra Miller",Drama,,7,6,6,6,5,7,6,6,,,6.0,6,7,6,7.0,6.2571
+The Bounty Hunter,2010.0,Andy Tennant,"Jennifer Aniston, Gerard Butler, Gio Perez","Action, Comedy, Romance",Rom-Com,7,5,5,7,6,8,6,6,,6.0,,6,6,6,7.0,6.25
+Imperium,2016.0,Daniel Ragussis,"Daniel Radcliffe, Toni Collette, Tracy Letts","Biography, Crime, Drama",,8,5,6,7,7,6,6,5,,,,4,8,5,7.0,6.2424
+Old School,2003.0,Todd Phillips,"Luke Wilson, Vince Vaughn, Will Ferrell",Comedy,,6,6,6,7,7,7,5,4,,8.0,,6,7,5,7.0,6.2222
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005.0,Andrew Adamson,"Tilda Swinton, Georgie Henley, William Moseley","Adventure, Family, Fantasy",,7,6,7,8,5,6,5,7,6.0,,,6,7,6,6.0,6.2162
+Goodfellas,1990.0,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci","Biography, Crime, Drama",Gangster,6,5,6,8,7,4,8,7,,,,4,7,6,6.0,6.2121
+Cape Fear,1991.0,Martin Scorsese,"Robert De Niro, Nick Nolte, Jessica Lange","Crime, Thriller",,6,7,8,7,6,6,6,6,,,,6,7,6,5.0,6.2121
+Killers of the Flower Moon,2023.0,Martin Scorsese,"Leonardo DiCaprio, Robert De Niro, Lily Gladstone","Crime, Drama, History",,7,5,6,8,7,3,8,9,,,,3,6,7,5.0,6.2121
+The Meyerowitz Stories (New and Selected),2017.0,Noah Baumbach,"Adam Sandler, Grace Van Patten, Dustin Hoffman","Comedy, Drama",,6,7,7,7,7,6,8,6,,6.0,4.0,4,6,6,6.0,6.2105
+Crazy Rich Asians,2018.0,Jon M. Chu,"Constance Wu, Henry Golding, Michelle Yeoh","Comedy, Drama, Romance",Rom-Com,6,6,7,7,5,7,7,7,,4.0,6.0,6,6,6,7.0,6.2105
+Worth,2020.0,Sara Colangelo,"Michael Keaton, Amy Ryan, Stanley Tucci","Biography, Drama, History",Historical,8,6,7,6,7,6,7,6,,,4.0,4,6,6,6.0,6.2
+You've Got Mail,1998.0,Nora Ephron,"Tom Hanks, Meg Ryan, Greg Kinnear","Comedy, Drama, Romance",Rom-Com,6,5,7,6,7,6,7,5,,4.0,,8,6,6,7.0,6.1944
+Couples Retreat,2009.0,Peter Billingsley,"Vince Vaughn, Malin Akerman, Jon Favreau",Comedy,,7,5,5,7,6,7,6,6,,6.0,,6,6,6,7.0,6.1944
+In Time,2011.0,Andrew Niccol,"Justin Timberlake, Amanda Seyfried, Cillian Murphy","Action, Sci-Fi, Thriller",Heist,8,5,5,6,4,6,6,7,,,,6,7,6,7.0,6.1818
+Blade Runner,1982.0,Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young","Action, Drama, Sci-Fi",,8,4,7,6,8,5,7,5,7.0,,4.0,6,8,8,4.0,6.1795
+Shrek,2001.0,"Andrew Adamson, Vicky Jenson","Mike Myers, Eddie Murphy, Cameron Diaz","Animation, Adventure, Comedy",Animation,6,5,7,7,7,5,7,6,7.0,6.0,,5,5,8,6.0,6.175
+Dodgeball: A True Underdog Story,2004.0,Rawson Marshall Thurber,"Ben Stiller, Christine Taylor, Vince Vaughn","Comedy, Sport",Sports,6,6,6,6,6,6,6,5,,6.0,,7,5,6,8.0,6.1667
+Fool's Gold,2008.0,Andy Tennant,"Matthew McConaughey, Kate Hudson, Donald Sutherland","Action, Adventure, Comedy",,7,6,5,7,4,6,6,6,,5.0,,7,6,6,8.0,6.1667
+Taken,2008.0,Pierre Morel,"Liam Neeson, Maggie Grace, Famke Janssen","Action, Crime, Thriller",Vigilante,7,5,6,6,6,7,6,6,,,,6,7,6,6.0,6.1515
+Point Break,1991.0,Kathryn Bigelow,"Patrick Swayze, Keanu Reeves, Gary Busey","Action, Crime, Thriller",Police,6,5,7,7,6,6,5,8,,,,5,8,7,6.0,6.1515
+The Mercy,2018.0,James Marsh,"Colin Firth, Eleanor Stagg, Rachel Weisz","Adventure, Biography, Drama",,8,5,6,6,6,6,7,6,,,,4,6,8,6.0,6.1515
+Blended,2014.0,Frank Coraci,"Adam Sandler, Drew Barrymore, Wendi McLendon-Covey","Comedy, Romance",Rom-Com,5,5,6,6,6,7,6,6,,7.0,,7,6,6,7.0,6.1389
+Due Date,2010.0,Todd Phillips,"Robert Downey Jr., Zach Galifianakis, Michelle Monaghan","Comedy, Drama",,6,7,6,7,6,7,6,6,,7.0,,5,5,6,6.0,6.1389
+The Inbetweeners Movie,2011.0,Ben Palmer,"James Buckley, Blake Harrison, Joe Thomas",Comedy,Coming-of-Age,6,6,6,7,6,6,5,5,,8.0,,7,5,5,7.0,6.1389
+Righteous Kill,2008.0,Jon Avnet,"Robert De Niro, Al Pacino, Carla Gugino","Crime, Mystery, Thriller","Detective, Police",7,5,6,7,5,6,5,6,,,,8,7,6,6.0,6.1212
+Sleepless in Seattle,1993.0,Nora Ephron,"Tom Hanks, Meg Ryan, Ross Malinger","Comedy, Drama, Romance",Rom-Com,6,6,6,5,6,7,7,6,,5.0,,6,5,7,7.0,6.1111
+Sing Street,2016.0,John Carney,"Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy","Comedy, Drama, Music",,6,6,7,6,7,7,6,6,,5.0,,6,6,6,6.0,6.1111
+Life,2017.0,Daniel Espinosa,"Jake Gyllenhaal, Rebecca Ferguson, Ryan Reynolds","Horror, Sci-Fi, Thriller",Space,8,5,5,5,4,6,7,6,8.0,,5.0,7,6,6,5.0,6.1026
+Transformers: Revenge of the Fallen,2009.0,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel","Action, Adventure, Sci-Fi",,6,5,6,7,5,7,6,6,,,,6,6,7,7.0,6.0909
+Licorice Pizza,2021.0,Paul Thomas Anderson,"Alana Haim, Cooper Hoffman, Sean Penn","Comedy, Drama, Romance","Coming-of-Age, Period",6,6,6,5,7,5,6,7,,5.0,,6,8,6,6.0,6.0833
+The Best Exotic Marigold Hotel,2011.0,John Madden,"Judi Dench, Bill Nighy, Maggie Smith","Comedy, Drama, Romance",,6,7,6,7,6,6,7,6,,4.0,6.0,6,6,6,6.0,6.0789
+Revolutionary Road,2008.0,Sam Mendes,"Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald","Drama, Romance",,5,6,6,4,6,7,7,7,,,,7,6,4,6.0,6.0606
+Sunshine,2007.0,Danny Boyle,"Cillian Murphy, Rose Byrne, Chris Evans","Sci-Fi, Thriller","Space, Psychological",8,4,6,6,6,6,7,7,7.0,,,1,7,8,6.0,6.0541
+Scent of a Woman,1992.0,Martin Brest,"Al Pacino, Chris O'Donnell, James Rebhorn",Drama,,5,6,7,7,5,6,7,6,,,,6,6,6,6.0,6.0303
+Hustle,2022.0,Jeremiah Zagar,"Adam Sandler, Queen Latifah, Juancho Hernangomez","Comedy, Drama, Sport",Sports,6,6,6,5,5,8,6,7,,,4.0,7,6,6,6.0,6.0286
+The Great Debaters,2007.0,Denzel Washington,"Denzel Washington, Forest Whitaker, Kimberly Elise","Biography, Drama, Romance",Historical,7,6,6,7,6,6,7,7,,,5.0,5,5,5,5.0,6.0286
+Meet the Parents,2000.0,Jay Roach,"Ben Stiller, Robert De Niro, Teri Polo","Comedy, Romance",,5,6,5,7,7,8,6,6,,6.0,,6,5,6,6.0,6.0278
+The Interview,2014.0,"Evan Goldberg, Seth Rogen","James Franco, Seth Rogen, Randall Park","Action, Adventure, Comedy",,7,6,5,7,6,7,4,6,5.0,8.0,,6,6,6,6.0,6.0
+The Bucket List,2007.0,Rob Reiner,"Jack Nicholson, Morgan Freeman, Sean Hayes","Adventure, Comedy, Drama",Buddy,7,5,5,6,6,6,6,6,,,,6,5,5,7.0,6.0
+Wimbledon,2004.0,Richard Loncraine,"Kirsten Dunst, Paul Bettany, Jon Favreau","Comedy, Romance, Sport",Rom-Com,8,5,3,7,5,6,6,7,,6.0,3.0,5,6,6,8.0,6.0
+Playing for Keeps,2012.0,Gabriele Muccino,"Gerard Butler, Jessica Biel, Dennis Quaid","Comedy, Romance, Sport",Rom-Com,6,5,5,4,5,6,7,5,,8.0,,6,6,6,7.0,5.9722
+Morning Glory,2010.0,Roger Michell,"Rachel McAdams, Harrison Ford, Diane Keaton","Comedy, Drama, Romance",,6,5,5,6,6,6,6,4,,8.0,,6,6,6,7.0,5.9722
+The Fault in Our Stars,2014.0,Josh Boone,"Shailene Woodley, Ansel Elgort, Nat Wolff","Drama, Romance",,7,7,7,6,3,6,6,6,,,9.0,4,5,6,6.0,5.9429
+Dirty Grandpa,2016.0,Dan Mazer,"Robert De Niro, Zac Efron, Zoey Deutch",Comedy,,6,5,5,6,7,7,4,6,,7.0,,6,5,6,7.0,5.9167
+Me Before You,2016.0,Thea Sharrock,"Emilia Clarke, Sam Claflin, Janet McTeer","Drama, Romance",,7,6,5,6,4,7,6,6,,,6.0,5,5,6,7.0,5.9143
+A Civil Action,1998.0,Steven Zaillian,"John Travolta, Robert Duvall, Kathleen Quinlan",Drama,"Historical, Legal",8,4,6,4,5,6,6,7,,,,5,7,6,6.0,5.9091
+Pearl Harbor,2001.0,Michael Bay,"Ben Affleck, Kate Beckinsale, Josh Hartnett","Action, Drama, History","War, Epic",7,4,5,5,6,6,6,7,6.0,,4.0,5,8,8,6.0,5.8974
+The Edge of Seventeen,2016.0,Kelly Fremon Craig,"Hailee Steinfeld, Haley Lu Richardson, Blake Jenner","Comedy, Drama",Coming-of-Age,6,6,6,6,6,8,6,6,,4.0,,6,5,6,6.0,5.8889
+Disturbia,2007.0,D.J. Caruso,"Shia LaBeouf, David Morse, Carrie-Anne Moss","Crime, Drama, Mystery",,7,5,5,5,5,7,6,6,,,,6,6,5,6.0,5.8485
+From Paris with Love,2010.0,Pierre Morel,"John Travolta, Jonathan Rhys Meyers, Kasia Smutniak","Action, Crime, Thriller",Buddy,7,5,5,6,5,7,6,6,,,,5,6,6,6.0,5.8485
+Spider-Man,2002.0,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Willem Dafoe","Action, Adventure, Sci-Fi",Superhero,7,5,5,6,4,5,5,6,7.0,,6.0,6,6,5,7.0,5.8462
+Everything Everywhere All at Once,2022.0,"Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis","Action, Adventure, Comedy",,4,4,6,6,6,6,8,7,8.0,5.0,,5,7,6,4.0,5.825
+God's Creatures,2022.0,"Saela Davis, Anna Rose Holmer","Seán T. Ó Meallaigh, Paul Mescal, Emily Watson",Drama,Psychological,7,5,6,5,4,4,8,8,,,,2,9,7,5.0,5.8182
+The Purge: Election Year,2016.0,James DeMonaco,"Frank Grillo, Elizabeth Mitchell, Mykelti Williamson","Action, Horror, Sci-Fi",,7,5,5,6,6,6,6,7,,,,5,6,5,5.0,5.8182
+Elizabethtown,2005.0,Cameron Crowe,"Orlando Bloom, Kirsten Dunst, Susan Sarandon","Comedy, Drama, Romance",Rom-Com,6,5,5,6,6,7,6,6,,4.0,6.0,6,6,8,6.0,5.8158
+Mean Girls,2004.0,Mark Waters,"Lindsay Lohan, Jonathan Bennett, Rachel McAdams",Comedy,,5,6,5,7,6,7,6,5,,5.0,,6,5,5,7.0,5.8056
+Yesterday,2019.0,Danny Boyle,"Himesh Patel, Lily James, Sophia Di Martino","Comedy, Fantasy, Music",Music,8,6,6,6,6,6,6,6,,2.0,,3,5,10,7.0,5.8056
+Welcome to the Rileys,2010.0,Jake Scott,"James Gandolfini, Kristen Stewart, Melissa Leo",Drama,,6,6,5,5,5,6,7,6,,,,6,6,6,5.0,5.7879
+Bridget Jones's Diary,2001.0,Sharon Maguire,"Renée Zellweger, Colin Firth, Hugh Grant","Comedy, Drama, Romance",Rom-Com,5,6,6,7,6,7,7,5,,3.0,,6,6,6,6.0,5.7778
+Ferris Bueller's Day Off,1986.0,John Hughes,"Matthew Broderick, Alan Ruck, Mia Sara",Comedy,Coming-of-Age,5,6,6,6,7,8,6,6,,3.0,,6,6,8,5.0,5.7778
+"Love, Rosie",2014.0,Christian Ditter,"Lily Collins, Sam Claflin, Christian Cooke","Comedy, Romance",Rom-Com,5,6,6,5,5,6,6,6,,5.0,,7,6,7,6.0,5.7778
+Bride Wars,2009.0,Gary Winick,"Kate Hudson, Anne Hathaway, Candice Bergen","Comedy, Romance",Rom-Com,5,5,6,6,6,6,6,6,,4.0,,7,5,5,7.0,5.75
+Elf,2003.0,Jon Favreau,"Will Ferrell, James Caan, Bob Newhart","Adventure, Comedy, Family",Christmas,5,5,5,6,7,7,5,6,,5.0,,6,6,8,6.0,5.75
+Love at First Sight,2023.0,Vanessa Caswill,"Haley Lu Richardson, Ben Hardy, Dexter Fletcher","Drama, Romance",,4,5,6,6,6,4,7,6,,,9.0,5,6,5,6.0,5.7429
+Predestination,2014.0,"Michael Spierig, Peter Spierig","Ethan Hawke, Sarah Snook, Noah Taylor","Action, Drama, Sci-Fi",,2,6,7,6,6,7,7,7,,,,6,6,6,5.0,5.7273
+Donnie Brasco,1997.0,Mike Newell,"Al Pacino, Johnny Depp, Michael Madsen","Biography, Crime, Drama",,6,4,6,5,6,5,7,7,,,,6,7,6,4.0,5.7273
+The Rainmaker,1997.0,Francis Ford Coppola,"Matt Damon, Danny DeVito, Claire Danes","Crime, Drama, Thriller","Legal, Courtroom",6,5,6,6,6,5,7,5,,,5.0,6,6,6,5.0,5.7143
+Keeping Up with the Joneses,2016.0,Greg Mottola,"Zach Galifianakis, Isla Fisher, Jon Hamm","Action, Comedy",Spy,6,5,5,6,5,6,6,6,,5.0,,7,5,5,6.0,5.6944
+Bombshell,2019.0,Jay Roach,"Charlize Theron, Nicole Kidman, Margot Robbie","Biography, Drama",,7,5,4,5,5,4,7,6,,,,7,5,6,5.0,5.6667
+The Internship,2013.0,Shawn Levy,"Vince Vaughn, Owen Wilson, Rose Byrne",Comedy,,5,5,4,6,5,7,6,6,,6.0,,6,6,6,6.0,5.6667
+Saw,2004.0,James Wan,"Cary Elwes, Leigh Whannell, Danny Glover","Horror, Mystery, Thriller",,7,6,5,5,6,6,5,4,,,,6,6,5,6.0,5.6667
+Get Smart,2008.0,Peter Segal,"Steve Carell, Anne Hathaway, Alan Arkin","Action, Adventure, Comedy",Spy,6,5,5,6,5,6,5,6,,7.0,4.0,6,6,6,6.0,5.6579
+The Guilty,2021.0,Antoine Fuqua,"Jake Gyllenhaal, Riley Keough, Peter Sarsgaard","Crime, Drama, Thriller",Police,6,5,5,5,6,6,7,6,,,5.0,4,8,5,5.0,5.6571
+The Intern,2015.0,Nancy Meyers,"Robert De Niro, Anne Hathaway, Rene Russo","Comedy, Drama",,6,6,6,6,5,7,5,6,,3.0,4.0,6,6,6,7.0,5.6316
+No Hard Feelings,2023.0,Gene Stupnitsky,"Jennifer Lawrence, Andrew Barth Feldman, Laura Benanti","Comedy, Romance",Rom-Com,5,4,6,5,6,5,6,6,,8.0,,4,6,6,6.0,5.6111
+The Frozen Ground,2013.0,Scott Walker,"Nicolas Cage, Vanessa Hudgens, John Cusack","Biography, Crime, Drama",,6,4,5,5,5,6,6,6,,,,6,6,6,6.0,5.6061
+Saw,2004.0,James Wan,"Cary Elwes, Leigh Whannell, Danny Glover","Horror, Mystery, Thriller",,5,6,6,5,5,6,4,5,,,,8,7,5,6.0,5.6061
+Yes Man,2008.0,Peyton Reed,"Jim Carrey, Zooey Deschanel, Bradley Cooper","Comedy, Romance",Rom-Com,5,6,5,6,6,7,5,6,,5.0,5.0,6,5,6,6.0,5.6053
+Green Street,2008.0,Urs Schnell,,Documentary,,6,5,5,6,5,8,5,5,,,5.0,5,6,4,7.0,5.6
+Employee of the Month,2006.0,Greg Coolidge,"Jessica Simpson, Dane Cook, Dax Shepard","Comedy, Romance",,5,5,5,6,5,7,5,5,,6.0,,6,5,6,7.0,5.5833
+The Pope's Exorcist,2023.0,Julius Avery,"Russell Crowe, Daniel Zovatto, Alexandra Essoe","Horror, Thriller",,4,5,6,6,6,6,5,6,,,,7,7,6,5.0,5.5758
+Going in Style,2017.0,Zach Braff,"Michael Caine, Alan Arkin, Ann-Margret","Comedy, Crime",Heist,5,4,6,6,6,6,6,5,,6.0,,6,5,5,6.0,5.5556
+Money Monster,2016.0,Jodie Foster,"George Clooney, Julia Roberts, Jack O'Connell","Action, Crime, Drama",,7,5,6,6,4,6,6,5,,,,4,6,5,6.0,5.5455
+Final Destination 3,2006.0,James Wong,"Mary Elizabeth Winstead, Ryan Merriman, Kris Lemche","Horror, Thriller",,7,5,5,6,5,6,6,5,,,,5,6,5,5.0,5.5455
+The Breakfast Club,1985.0,John Hughes,"Emilio Estevez, Judd Nelson, Molly Ringwald","Comedy, Drama",Coming-of-Age,5,6,6,6,4,7,6,5,,,,6,6,6,5.0,5.5455
+American Reunion,2012.0,"Jon Hurwitz, Hayden Schlossberg","Jason Biggs, Alyson Hannigan, Seann William Scott",Comedy,,5,5,5,7,4,4,5,6,,6.0,,8,5,6,6.0,5.5278
+The Crazies,2010.0,Breck Eisner,"Radha Mitchell, Timothy Olyphant, Danielle Panabaker","Horror, Thriller",,7,5,5,5,6,5,6,6,,,,4,6,5,5.0,5.5152
+Four Weddings and a Funeral,1994.0,Mike Newell,"Hugh Grant, Andie MacDowell, James Fleet","Comedy, Drama, Romance",Rom-Com,7,7,6,6,6,6,4,5,,5.0,,3,5,6,6.0,5.5
+Camp Rock,2008.0,Matthew Diamond,"Demi Lovato, Joe Jonas, Meaghan Martin","Comedy, Drama, Family","Musical, Music",6,5,6,6,5,6,4,5,,,,7,6,7,5.0,5.4848
+The Purge: Anarchy,2014.0,James DeMonaco,"Frank Grillo, Carmen Ejogo, Zach Gilford","Action, Horror, Sci-Fi",,6,4,5,3,5,6,5,7,,,,7,7,5,5.0,5.4545
+Analyze This,1999.0,Harold Ramis,"Robert De Niro, Billy Crystal, Lisa Kudrow","Comedy, Crime",,6,5,5,6,6,6,5,5,,5.0,,6,6,5,5.0,5.4444
+Never Back Down,2008.0,Jeff Wadlow,"Sean Faris, Djimon Hounsou, Amber Heard","Action, Drama, Sport",Sports,5,4,5,6,4,6,6,6,,,6.0,6,5,6,6.0,5.4286
+Unfinished Business,2015.0,Ken Scott,"Vince Vaughn, Dave Franco, Tom Wilkinson","Comedy, Drama",,5,4,5,4,4,6,5,6,,7.0,,6,5,6,7.0,5.4167
+Source Code,2011.0,Duncan Jones,"Jake Gyllenhaal, Michelle Monaghan, Vera Farmiga","Action, Drama, Mystery",,4,5,6,4,4,6,6,6,6.0,,,4,6,6,7.0,5.3784
+Final Destination,2000.0,James Wong,"Devon Sawa, Ali Larter, Kerr Smith","Horror, Thriller",,7,4,5,6,4,6,4,5,,,,6,6,6,6.0,5.3636
+Reservoir Dogs,1992.0,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen","Crime, Thriller",,4,3,6,5,6,5,6,7,,,,6,7,5,5.0,5.3636
+The Whistleblower,2010.0,Larysa Kondracki,"Rachel Weisz, Monica Bellucci, Vanessa Redgrave","Biography, Crime, Drama",,6,5,6,5,6,5,6,6,,,,2,7,6,5.0,5.3636
+Aloha,2015.0,Cameron Crowe,"Bradley Cooper, Rachel McAdams, Emma Stone","Comedy, Drama, Romance",Rom-Com,4,5,5,6,4,6,6,6,,4.0,,6,5,6,7.0,5.3611
+Brothers,2009.0,Jim Sheridan,"Jake Gyllenhaal, Natalie Portman, Tobey Maguire","Drama, Thriller, War","War, Psychological",8,5,4,6,5,4,7,5,,,6.0,2,6,4,5.0,5.3429
+The Girl on the Train,2016.0,Tate Taylor,"Emily Blunt, Haley Bennett, Rebecca Ferguson","Crime, Drama, Mystery",Mystery,5,5,6,5,4,5,6,7,,,,4,7,6,5.0,5.3333
+Alive,1993.0,Frank Marshall,"Ethan Hawke, Vincent Spano, Josh Hamilton","Adventure, Biography, Drama",Survival,6,5,5,4,4,5,6,7,6.0,,4.0,6,6,6,4.0,5.3333
+Don't Worry Darling,2022.0,Olivia Wilde,"Florence Pugh, Harry Styles, Chris Pine","Drama, Mystery, Thriller",,5,3,5,4,6,5,6,7,,,,4,7,6,6.0,5.3333
+The Second Best Exotic Marigold Hotel,2015.0,John Madden,"Judi Dench, Maggie Smith, Bill Nighy","Comedy, Drama, Romance",Rom-Com,4,5,5,7,6,6,6,6,,4.0,4.0,4,7,8,5.0,5.2895
+Final Destination 2,2003.0,David R. Ellis,"A.J. Cook, Ali Larter, Tony Todd","Horror, Thriller",,6,5,4,6,4,6,6,4,,,,4,6,6,6.0,5.2424
+Four Christmases,2008.0,Seth Gordon,"Reese Witherspoon, Vince Vaughn, Mary Steenburgen","Comedy, Drama, Romance","Rom-Com, Christmas",5,3,4,6,4,5,6,5,,6.0,,7,4,4,6.0,5.1389
+"Angus, Thongs and Perfect Snogging",2008.0,Gurinder Chadha,"Georgia Groome, Aaron Taylor-Johnson, Karen Taylor","Comedy, Drama, Romance",Rom-Com,5,5,5,5,4,6,5,6,,4.0,,6,5,6,5.0,5.0833
+The Secret Life of Bees,2008.0,Gina Prince-Bythewood,"Dakota Fanning, Jennifer Hudson, Queen Latifah",Drama,,3,3,5,6,5,6,6,6,,,,6,6,5,5.0,5.0606
+My Son,2021.0,Christian Carion,"James McAvoy, Claire Foy, Tom Cullen","Crime, Drama, Mystery",,4,4,5,4,4,5,7,7,,,,2,8,7,5.0,5.0303
+The First Purge,2018.0,Gerard McMurray,"Y'lan Noel, Lex Scott Davis, Joivan Wade","Action, Horror, Sci-Fi",,6,4,5,3,5,5,4,7,,,,5,6,5,5.0,5.0303
+Stillwater,2021.0,Tom McCarthy,"Matt Damon, Camille Cottin, Abigail Breslin","Crime, Drama, Mystery",,5,4,5,4,5,4,6,6,,,,4,6,6,5.0,5.0
+Where the Crawdads Sing,2022.0,Olivia Newman,"Daisy Edgar-Jones, Taylor John Smith, Harris Dickinson","Drama, Mystery, Romance","Mystery, Legal",5,2,5,6,4,4,7,7,,,3.0,4,7,6,4.0,4.8857
+Two Weeks Notice,2002.0,Marc Lawrence,"Sandra Bullock, Hugh Grant, Alicia Witt","Comedy, Romance",Rom-Com,5,5,5,4,5,6,5,3,,5.0,,5,5,5,5.0,4.8333
+Hannah Montana: The Movie,2009.0,Peter Chelsom,"Miley Cyrus, Emily Osment, Billy Ray Cyrus","Comedy, Drama, Family",Musical,4,3,5,6,4,7,4,5,,,,5,4,8,6.0,4.8182
+Gran Turismo,2023.0,Neill Blomkamp,"David Harbour, Orlando Bloom, Archie Madekwe","Action, Adventure, Drama",Sports,8,4,4,3,2,6,3,6,,,,6,5,5,5.0,4.8182
+Red Eye,2005.0,Wes Craven,"Rachel McAdams, Cillian Murphy, Brian Cox",Thriller,,5,4,5,5,4,4,6,5,,,,4,6,6,4.0,4.7576
+Coherence,2013.0,James Ward Byrkit,"Emily Baldoni, Maury Sterling, Nicholas Brendon","Drama, Mystery, Sci-Fi",,3,4,4,3,5,5,6,4,,,,4,8,6,6.0,4.7576
+No Strings Attached,2011.0,Ivan Reitman,"Natalie Portman, Ashton Kutcher, Kevin Kline","Comedy, Romance",Rom-Com,6,4,5,5,3,5,5,6,,4.0,,6,5,6,3.0,4.75
+Your Christmas or Mine?,2022.0,Jim O'Hanlon,"Asa Butterfield, Cora Kirk, Daniel Mays","Comedy, Romance","Christmas, Rom-Com",4,4,5,5,4,6,5,6,,4.0,,5,5,6,3.0,4.5833
+Eye for an Eye,1996,John Schlesinger,"Sally Field, Kiefer Sutherland, Ed Harris","Crime, Drama, Thriller",,7,4,5,3,4,4,5,5,,,,3,5,4,4.0,4.5455
+Fifty Shades of Grey,2015.0,Sam Taylor-Johnson,"Dakota Johnson, Jamie Dornan, Jennifer Ehle","Drama, Romance, Thriller",,5,3,1,5,4,5,3,7,,,,4,6,8,5.0,4.4848
+The Bling Ring,2013.0,Sofia Coppola,"Katie Chang, Israel Broussard, Emma Watson","Biography, Crime, Drama",Historical,5,2,4,4,5,4,5,5,,,,4,4,6,4.0,4.303
+Stay,2005.0,Marc Forster,"Ewan McGregor, Naomi Watts, Ryan Gosling","Drama, Mystery, Thriller",,2,2,2,5,6,4,7,6,5.0,,,1,7,5,4.0,4.2703
+"Everything, Everything",2017.0,Stella Meghie,"Amandla Stenberg, Nick Robinson, Anika Noni Rose","Drama, Romance",,8,4,4,3,2,4,4,6,,,,3,3,6,3.0,4.2121
+Last Christmas,2019.0,Paul Feig,"Madison Ingoldsby, Emma Thompson, Boris Isakovic","Comedy, Drama, Fantasy",Christmas,4,1,4,5,3,6,6,5,,3.0,2.0,1,6,6,5.0,3.9737
+After,2019.0,Jenny Gage,"Josephine Langford, Hero Fiennes Tiffin, Khadijha Red Thunder","Drama, Romance",,5,4,3,3,1,5,2,6,,,,2,5,5,5.0,3.7576
+Glass Onion,2022.0,Rian Johnson,"Daniel Craig, Edward Norton, Kate Hudson","Comedy, Crime, Drama",Mystery,2,2,3,5,4,3,5,6,,3.0,,2,6,6,4.0,3.75
+The Circle,2017.0,James Ponsoldt,"Emma Watson, Tom Hanks, John Boyega","Drama, Mystery, Sci-Fi",,5,1,3,5,2,6,4,4,,,,1,6,4,4.0,3.6364
